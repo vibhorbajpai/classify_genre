@@ -1,4 +1,5 @@
 from settings import *
+import json
 from json_to_csv import *
 import pandas as pd
 import os
@@ -59,7 +60,7 @@ def extract_data(dataset_list):
                                       profile=True)
 
 def convert_to_csv(inputpath, outputpath):
-    masterfields = set()
+    header_list = list()
     for root, dirs, files in os.walk(inputpath):
         classname = root.split(os.path.sep)[-1]
         for f in files:
@@ -70,11 +71,15 @@ def convert_to_csv(inputpath, outputpath):
                 outputfile = os.path.join(outputpath, classname, f)+'.csv'
                 inputfilelist = list()
                 inputfilelist.append(inputfile)
-                convert_all(inputfilelist, outputfile)
+                if not os.path.exists(outputfile):
+                    convert_all(inputfilelist, outputfile)
                 df = pd.read_csv(outputfile)
-                header_list = list(df)
-                for h in header_list:
-                    masterfields.add(h)
+                header_list.append(list(df))
+    if(len(header_list[0])>2):
+        masterfields = set(header_list[0])
+    for s in header_list[1:]:
+        if(len(header_list[0])>2):
+            masterfields.intersection_update(s)
     return list(masterfields)
 
 def extract_csv(dataset_list):
@@ -83,5 +88,7 @@ def extract_csv(dataset_list):
         if not os.path.exists(os.path.join(CSV_BASE_PATH, dataset)):
             os.makedirs(os.path.join(CSV_BASE_PATH, dataset))
         masterfields[dataset] = convert_to_csv(os.path.join(LOW_LEVEL_DATA_BASE_PATH, dataset), os.path.join(CSV_BASE_PATH, dataset))
-        print(len(masterfields[dataset]))
-    return masterfields
+    jsonf = json.dumps(masterfields)
+    f = open(os.path.join(LOGS_PATH, "masterfields.json"), "w")
+    f.write(jsonf)
+    f.close()
