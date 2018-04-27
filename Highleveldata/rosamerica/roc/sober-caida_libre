@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000373648072127,
+            "dan": 0.0297303274274,
+            "hip": 0.0142456712201,
+            "jaz": 0.00126136071049,
+            "pop": 0.0287215989083,
+            "rhy": 0.0119054149836,
+            "roc": 0.913211524487,
+            "spe": 0.00055044767214
+        },
+        "probability": 0.913211524487,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 205.688156128,
+        "lossless": 0,
+        "replay_gain": -9.93532371521,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d60be4a67ae2c8b8750f0e6c1f1e39f8"
+    },
+    "tags": {
+        "file_name": "sober-caida_libre.mp3",
+        "album": ["Morfología"],
+        "artist": ["Sôber"],
+        "genre": ["Rock"],
+        "title": ["Caida Libre"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

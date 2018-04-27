@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0103095313534,
+            "dan": 0.00650264229625,
+            "hip": 0.0165236145258,
+            "jaz": 0.848363161087,
+            "pop": 0.0248058214784,
+            "rhy": 0.0743258744478,
+            "roc": 0.011519568041,
+            "spe": 0.00764977280051
+        },
+        "probability": 0.848363161087,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 731.40246582,
+        "lossless": 0,
+        "replay_gain": -7.96074295044,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "27922e52e4b083c8bb65932b99e9ec25"
+    },
+    "tags": {
+        "file_name": "stan_getz_and_dizzy_gillespie_septet_with_sonny_stitt-dark_e.mp3",
+        "album": ["Jazz Masters 25"],
+        "artist": ["Stan Getz & Dizzy Gillespie"],
+        "date": ["2000"],
+        "genre": ["Jazz"],
+        "title": ["Dark Eyes"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

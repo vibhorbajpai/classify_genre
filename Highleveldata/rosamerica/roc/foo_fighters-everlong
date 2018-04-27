@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000564448826481,
+            "dan": 0.00294208317064,
+            "hip": 0.00024596505682,
+            "jaz": 0.000643055478577,
+            "pop": 0.00912426691502,
+            "rhy": 0.000787132186815,
+            "roc": 0.985407292843,
+            "spe": 0.000285783928121
+        },
+        "probability": 0.985407292843,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 250.775512695,
+        "lossless": 0,
+        "replay_gain": -9.34247207642,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ca03762dce1da1a98f30a6ca3d583057"
+    },
+    "tags": {
+        "file_name": "foo_fighters-everlong.mp3",
+        "album": ["The Colour And The Shape"],
+        "artist": ["Foo Fighters"],
+        "date": ["1997"],
+        "genre": ["Other"],
+        "title": ["Everlong"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

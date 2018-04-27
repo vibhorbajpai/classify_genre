@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00294081773609,
+            "dan": 0.0396010801196,
+            "hip": 0.00849783513695,
+            "jaz": 0.0126991989091,
+            "pop": 0.061539709568,
+            "rhy": 0.0344255939126,
+            "roc": 0.830819129944,
+            "spe": 0.00947664678097
+        },
+        "probability": 0.830819129944,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 243.330612183,
+        "lossless": 0,
+        "replay_gain": -10.3630161285,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "31a9b50055abd119e874640bb299691b"
+    },
+    "tags": {
+        "file_name": "dishwalla-find_your_way_back_home.mp3",
+        "album": ["American Pie Soundtrack"],
+        "artist": ["Dishwalla"],
+        "date": ["1999"],
+        "genre": ["Soundtrack"],
+        "title": ["Find Your Way Home"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

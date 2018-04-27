@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000293387100101,
+            "dan": 0.991524517536,
+            "hip": 0.00523662613705,
+            "jaz": 0.000214048661292,
+            "pop": 0.000160936033353,
+            "rhy": 0.00135992537253,
+            "roc": 0.00107079499867,
+            "spe": 0.000139740252052
+        },
+        "probability": 0.991524517536,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 217.965713501,
+        "lossless": 0,
+        "replay_gain": -12.2904052734,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a69807ed0f18fdd5d13acad707f96056"
+    },
+    "tags": {
+        "file_name": "cassandra-shout_it_out.mp3",
+        "album": ["Various Artists"],
+        "artist": ["DISCO ESTRELLA VOL. 4 - CD 2"],
+        "genre": ["Other"],
+        "title": ["Cassandra - Shout it out"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

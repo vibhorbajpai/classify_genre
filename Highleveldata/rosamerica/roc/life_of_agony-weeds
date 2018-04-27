@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000813656370156,
+            "dan": 0.00769326463342,
+            "hip": 0.0233258195221,
+            "jaz": 0.00182890135329,
+            "pop": 0.0312058124691,
+            "rhy": 0.00346258864738,
+            "roc": 0.931226432323,
+            "spe": 0.000443544471636
+        },
+        "probability": 0.931226432323,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 213.707748413,
+        "lossless": 0,
+        "replay_gain": -7.41509628296,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7c19a93adfc4a7472677dd91a283c030"
+    },
+    "tags": {
+        "file_name": "life_of_agony-weeds.mp3",
+        "artist": ["Life Of Agony"],
+        "genre": ["Alternative Rock"],
+        "title": ["Weeds"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

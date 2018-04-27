@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.992884099483,
+            "dan": 0.000446639460279,
+            "hip": 0.000853571516927,
+            "jaz": 0.00177415576763,
+            "pop": 0.000159000483109,
+            "rhy": 0.00302678067237,
+            "roc": 0.000413055153331,
+            "spe": 0.000442706543254
+        },
+        "probability": 0.992884099483,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 301.897125244,
+        "lossless": 0,
+        "replay_gain": 2.08030891418,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "0e35aac4f8db86b3990525d9a00e29d9"
+    },
+    "tags": {
+        "file_name": "schumann-concerto_per_violoncello-langsam.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

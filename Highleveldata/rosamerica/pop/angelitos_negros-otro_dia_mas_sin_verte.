@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00445848144591,
+            "dan": 0.0498197413981,
+            "hip": 0.0649019554257,
+            "jaz": 0.0120776668191,
+            "pop": 0.704606950283,
+            "rhy": 0.099181316793,
+            "roc": 0.0615813843906,
+            "spe": 0.00337252044119
+        },
+        "probability": 0.704606950283,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 326.45223999,
+        "lossless": 0,
+        "replay_gain": -7.38311576843,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d08b8ef66f7be90b35a26147ffc8325a"
+    },
+    "tags": {
+        "file_name": "angelitos_negros-otro_dia_mas_sin_verte..mp3",
+        "album": ["caribe 3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["ANGELITOS NEGROS 'OTRO DIA MAS SIN VERTE'"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

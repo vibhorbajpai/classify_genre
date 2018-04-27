@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00533016584814,
+            "dan": 0.000673809321597,
+            "hip": 0.00501055689529,
+            "jaz": 0.00266931671649,
+            "pop": 0.00107846385799,
+            "rhy": 0.00200700946152,
+            "roc": 0.00361205800436,
+            "spe": 0.979618608952
+        },
+        "probability": 0.979618608952,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 63.1118354797,
+        "lossless": 0,
+        "replay_gain": -6.24917411804,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d7a82d5b7f512733ee39d6e6a8f31e59"
+    },
+    "tags": {
+        "file_name": "tlfno_mujer_03.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00691988412291,
+            "dan": 0.897391855717,
+            "hip": 0.0498432442546,
+            "jaz": 0.00952283386141,
+            "pop": 0.0106101110578,
+            "rhy": 0.013739451766,
+            "roc": 0.00620345771313,
+            "spe": 0.0057691372931
+        },
+        "probability": 0.897391855717,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 224.417953491,
+        "lossless": 0,
+        "replay_gain": -11.3763866425,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "21fbe15148e316a4faf16a732084c7e4"
+    },
+    "tags": {
+        "file_name": "liberty-seguro.mp3",
+        "album": ["DISCO ALEGRIA 2001-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Seguro"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

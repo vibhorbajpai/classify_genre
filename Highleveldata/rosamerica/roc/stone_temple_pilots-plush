@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000456126348581,
+            "dan": 0.0286540612578,
+            "hip": 0.0036783486139,
+            "jaz": 0.00285259727389,
+            "pop": 0.032436940819,
+            "rhy": 0.00253940327093,
+            "roc": 0.927916109562,
+            "spe": 0.00146643654443
+        },
+        "probability": 0.927916109562,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 313.704498291,
+        "lossless": 0,
+        "replay_gain": -7.80031967163,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "38fd922c6170d023fca37e04d56f7818"
+    },
+    "tags": {
+        "file_name": "stone_temple_pilots-plush.mp3",
+        "album": ["Core"],
+        "artist": ["Stone Temple Pilots"],
+        "date": ["1992"],
+        "genre": ["Other"],
+        "title": ["Plush"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

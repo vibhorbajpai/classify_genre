@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00117112020962,
+            "dan": 0.0536336936057,
+            "hip": 0.0377454645932,
+            "jaz": 0.00297718285583,
+            "pop": 0.714504122734,
+            "rhy": 0.179412171245,
+            "roc": 0.00944444444031,
+            "spe": 0.00111179379746
+        },
+        "probability": 0.714504122734,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 202.318374634,
+        "lossless": 0,
+        "replay_gain": -9.15378379822,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7d7e0bcb18d744bc17053e5a812ba8ad"
+    },
+    "tags": {
+        "file_name": "rare_blend-boom_boom_boom.mp3",
+        "album": ["Coyote Ugly Soundtrack"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Boom Boom Boom"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

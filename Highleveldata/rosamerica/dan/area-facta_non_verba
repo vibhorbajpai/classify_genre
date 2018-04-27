@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00046310518519,
+            "dan": 0.93286973238,
+            "hip": 0.000569674069993,
+            "jaz": 0.000626648950856,
+            "pop": 0.0293719749898,
+            "rhy": 0.0195063631982,
+            "roc": 0.0162040665746,
+            "spe": 0.000388460961403
+        },
+        "probability": 0.93286973238,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 229.355102539,
+        "lossless": 0,
+        "replay_gain": -9.96279144287,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ee4b7ad669a3184a602355440a6de475"
+    },
+    "tags": {
+        "file_name": "area-facta_non_verba.mp3",
+        "album": ["Various Artists"],
+        "artist": ["DISCO ESTRELLA VOL. 4 - CD 2"],
+        "genre": ["Other"],
+        "title": ["Area - Facta non Verba"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

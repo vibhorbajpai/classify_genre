@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.891455113888,
+            "dan": 0.00596190430224,
+            "hip": 0.00772987911478,
+            "jaz": 0.0191875416785,
+            "pop": 0.0204433742911,
+            "rhy": 0.0331813655794,
+            "roc": 0.0188150946051,
+            "spe": 0.00322570232674
+        },
+        "probability": 0.891455113888,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128165,
+        "equal_loudness": 0,
+        "length": 119.118370056,
+        "lossless": 0,
+        "replay_gain": -5.37532424927,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "fefda02918063ff6468dbe06916697a5"
+    },
+    "tags": {
+        "file_name": "music_of_the_spheres-matteis_ground_after_the_scotch_humour.mp3",
+        "album": ["Music of the Spheres"],
+        "artist": ["Music of the Spheres"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/spheres"],
+        "composer": ["www.magnatune.com\/artists\/spheres"],
+        "copyright": ["2004 Music of the Spheres - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/spheres"],
+        "date": ["2004"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/spheres"],
+        "genre": ["Classical"],
+        "length": ["119000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/spheres"],
+        "title": ["Matteis: Ground After the Scot"],
+        "tracknumber": ["1"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

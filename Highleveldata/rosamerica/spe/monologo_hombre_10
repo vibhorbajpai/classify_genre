@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00424245232716,
+            "dan": 0.00623534433544,
+            "hip": 0.0313031673431,
+            "jaz": 0.0276637803763,
+            "pop": 0.00605109566823,
+            "rhy": 0.0199469253421,
+            "roc": 0.00545074231923,
+            "spe": 0.899106502533
+        },
+        "probability": 0.899106502533,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 61.5967330933,
+        "lossless": 0,
+        "replay_gain": -6.38994598389,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a6e90143cb4721b33bed0c43397ef857"
+    },
+    "tags": {
+        "file_name": "monologo_hombre_10.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

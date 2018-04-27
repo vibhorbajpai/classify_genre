@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0485035441816,
+            "dan": 0.0149849979207,
+            "hip": 0.015300385654,
+            "jaz": 0.0751466304064,
+            "pop": 0.158584564924,
+            "rhy": 0.652849376202,
+            "roc": 0.0233529116958,
+            "spe": 0.0112775731832
+        },
+        "probability": 0.652849376202,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 143.412246704,
+        "lossless": 0,
+        "replay_gain": -9.65741539001,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "bbb511e38f67f75eecd41c01e3f1558e"
+    },
+    "tags": {
+        "file_name": "otis_redding-that_s_how_strong_my_love_is.mp3",
+        "album": ["Dreams To Remember (The very best of Otis Red"],
+        "artist": ["Otis Redding"],
+        "genre": ["blues"],
+        "title": ["11 That's How Strong My Love Is"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

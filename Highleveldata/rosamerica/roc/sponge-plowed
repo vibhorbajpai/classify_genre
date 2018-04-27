@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0117049692199,
+            "dan": 0.0219585355371,
+            "hip": 0.013247330673,
+            "jaz": 0.010738959536,
+            "pop": 0.0985657647252,
+            "rhy": 0.0210122708231,
+            "roc": 0.818472802639,
+            "spe": 0.00429934822023
+        },
+        "probability": 0.818472802639,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 197.746932983,
+        "lossless": 0,
+        "replay_gain": -8.0350894928,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7d96352343960e168c62a024863efda1"
+    },
+    "tags": {
+        "file_name": "sponge-plowed.mp3",
+        "title": ["Sponge - Plowed"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0129279280081,
+            "dan": 0.0300365183502,
+            "hip": 0.836354494095,
+            "jaz": 0.0228668171912,
+            "pop": 0.0111567489803,
+            "rhy": 0.0604521557689,
+            "roc": 0.0135727627203,
+            "spe": 0.0126326046884
+        },
+        "probability": 0.836354494095,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 212.506118774,
+        "lossless": 0,
+        "replay_gain": -7.4538898468,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1e2b3c480aee9db77fbed2ca483df380"
+    },
+    "tags": {
+        "file_name": "cypress_hill-insane_in_the_brain.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

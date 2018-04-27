@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0387995690107,
+            "dan": 0.0128016397357,
+            "hip": 0.0149142257869,
+            "jaz": 0.0154145210981,
+            "pop": 0.0980426818132,
+            "rhy": 0.0423312783241,
+            "roc": 0.763252913952,
+            "spe": 0.0144431516528
+        },
+        "probability": 0.763252913952,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 281.96572876,
+        "lossless": 0,
+        "replay_gain": -8.65656089783,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e6aee2e092cdb606beda5bb0ee22fa12"
+    },
+    "tags": {
+        "file_name": "nirvana-heartshaped_box.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

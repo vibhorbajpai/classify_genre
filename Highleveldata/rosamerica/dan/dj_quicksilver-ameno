@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000264230242465,
+            "dan": 0.994004487991,
+            "hip": 0.00238747592084,
+            "jaz": 0.000100626166386,
+            "pop": 0.000485047377879,
+            "rhy": 0.00222389004193,
+            "roc": 0.000258020998444,
+            "spe": 0.000276200880762
+        },
+        "probability": 0.994004487991,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 282.462036133,
+        "lossless": 0,
+        "replay_gain": -8.54050445557,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "619a5c11071b955a6a00192d05e2da29"
+    },
+    "tags": {
+        "file_name": "dj_quicksilver-ameno.mp3",
+        "album": ["Cultura De Club (CD 2)"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["DJ Quicksilver - Ameno"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

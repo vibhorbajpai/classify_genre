@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000459583039628,
+            "dan": 0.0126704964787,
+            "hip": 0.00165565032512,
+            "jaz": 0.00393741996959,
+            "pop": 0.895586967468,
+            "rhy": 0.0609451979399,
+            "roc": 0.0229151751846,
+            "spe": 0.00182952603791
+        },
+        "probability": 0.895586967468,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 241.005706787,
+        "lossless": 0,
+        "replay_gain": -10.7758960724,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "24556c87da7513a1d1f69fbc0b93ff93"
+    },
+    "tags": {
+        "file_name": "desiree-you_gotta_be.mp3",
+        "album": ["Woman II"],
+        "artist": ["Woman II -By Stuff-"],
+        "genre": ["Other"],
+        "title": ["Des´ree-You Gotta Be"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

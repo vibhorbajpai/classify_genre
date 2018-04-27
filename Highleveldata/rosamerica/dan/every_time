@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00140267121606,
+            "dan": 0.970960915089,
+            "hip": 0.00172358204145,
+            "jaz": 0.00316668627784,
+            "pop": 0.00470091914758,
+            "rhy": 0.0126044116914,
+            "roc": 0.00364846782759,
+            "spe": 0.00179234950338
+        },
+        "probability": 0.970960915089,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 288.287353516,
+        "lossless": 0,
+        "replay_gain": -9.67829322815,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "be357732017131c5dbc6b342b197dc7a"
+    },
+    "tags": {
+        "file_name": "every_time.mp3",
+        "album": ["The original sessions. Vol. V. Techno"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["  Every time"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0356583669782,
+            "dan": 0.00367981777526,
+            "hip": 0.0108639923856,
+            "jaz": 0.0661159902811,
+            "pop": 0.703172266483,
+            "rhy": 0.139863818884,
+            "roc": 0.0288274697959,
+            "spe": 0.0118182618171
+        },
+        "probability": 0.703172266483,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 304.326538086,
+        "lossless": 0,
+        "replay_gain": -9.60687828064,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d3290b58e587d5a0bb661d95afac69d2"
+    },
+    "tags": {
+        "file_name": "el_tiempo-volver_atr__s.mp3",
+        "album": ["Zahorí"],
+        "artist": ["El Tiempo"],
+        "genre": ["Other"],
+        "title": ["Volver atrás"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

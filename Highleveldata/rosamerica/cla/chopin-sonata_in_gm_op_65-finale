@@ -1,0 +1,55 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.891547381878,
+            "dan": 0.00428806990385,
+            "hip": 0.00591251254082,
+            "jaz": 0.0416662059724,
+            "pop": 0.0128617333248,
+            "rhy": 0.0255832076073,
+            "roc": 0.00574427610263,
+            "spe": 0.012396639213
+        },
+        "probability": 0.891547381878,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 160000,
+        "equal_loudness": 0,
+        "length": 330.501220703,
+        "lossless": 0,
+        "replay_gain": -4.70705986023,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "0fed0b818db1a42f491706814c030656"
+    },
+    "tags": {
+        "file_name": "chopin-sonata_in_gm_op_65-finale.mp3",
+        "album": ["Complete Chopin Edition v08CD2"],
+        "artist": ["Frederic Chopin"],
+        "date": ["1981"],
+        "genre": ["Classical"],
+        "title": ["Cello Sonata in Gm,Op.65-Final"],
+        "tracknumber": ["10"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

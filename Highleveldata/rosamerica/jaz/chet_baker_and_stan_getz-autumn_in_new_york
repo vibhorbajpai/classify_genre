@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0290535669774,
+            "dan": 0.00046984598157,
+            "hip": 0.00125870003831,
+            "jaz": 0.938117623329,
+            "pop": 0.00398324104026,
+            "rhy": 0.0222493521869,
+            "roc": 0.00088941474678,
+            "spe": 0.00397827802226
+        },
+        "probability": 0.938117623329,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 874.553466797,
+        "lossless": 0,
+        "replay_gain": -2.78094291687,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2be77f2c2ed1adfe161b4be5759433a2"
+    },
+    "tags": {
+        "file_name": "chet_baker_and_stan_getz-autumn_in_new_york.mp3",
+        "album": ["                              "],
+        "artist": ["Chet Baker & Stan Getz        "],
+        "date": ["    "],
+        "genre": ["Jazz"],
+        "title": ["Autumn in NY & Embraceable You"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0108676115051,
+            "dan": 0.000709095736966,
+            "hip": 0.00305734947324,
+            "jaz": 0.026666732505,
+            "pop": 0.747185587883,
+            "rhy": 0.207266420126,
+            "roc": 0.00209663971327,
+            "spe": 0.002150550019
+        },
+        "probability": 0.747185587883,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 289.750213623,
+        "lossless": 0,
+        "replay_gain": -9.82041168213,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "3f673ea0e6e3f02b1df5b365afcab4d8"
+    },
+    "tags": {
+        "file_name": "celine_dion-think_twice.mp3",
+        "album": ["Woman II"],
+        "artist": ["Woman II -By Stuff-"],
+        "genre": ["Other"],
+        "title": ["Celine Dion-Think Twice"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

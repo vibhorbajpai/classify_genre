@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00163277983665,
+            "dan": 0.0680054873228,
+            "hip": 0.0351207703352,
+            "jaz": 0.00440730992705,
+            "pop": 0.770586073399,
+            "rhy": 0.106146506965,
+            "roc": 0.0120071498677,
+            "spe": 0.00209394656122
+        },
+        "probability": 0.770586073399,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 190.354278564,
+        "lossless": 0,
+        "replay_gain": -10.9310722351,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "6a3dc0876a89d78ba89589e2abb69760"
+    },
+    "tags": {
+        "file_name": "natalia-el_cielo_estara.mp3",
+        "album": ["No Soy Un Angel"],
+        "artist": ["Natalia"],
+        "genre": ["Other"],
+        "title": ["El Cielo Estará"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

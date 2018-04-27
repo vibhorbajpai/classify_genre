@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0256149619818,
+            "dan": 0.0138287721202,
+            "hip": 0.0441587865353,
+            "jaz": 0.049742422998,
+            "pop": 0.0946669429541,
+            "rhy": 0.728334128857,
+            "roc": 0.0125646414235,
+            "spe": 0.0310893245041
+        },
+        "probability": 0.728334128857,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 301.688171387,
+        "lossless": 0,
+        "replay_gain": -7.61560249329,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "50a781a181d50a8ca58e81ae1c5d7e5a"
+    },
+    "tags": {
+        "file_name": "teddy_pendergrass-love_t_k_o..mp3",
+        "album": ["Sexy Soul - CD1"],
+        "artist": ["Teddy Pendergrass"],
+        "date": ["2002"],
+        "genre": ["Soul"],
+        "title": ["Love T.K.O."]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

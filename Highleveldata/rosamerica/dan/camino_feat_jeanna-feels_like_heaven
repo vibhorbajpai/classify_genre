@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000144358200487,
+            "dan": 0.977514564991,
+            "hip": 0.0151366684586,
+            "jaz": 0.000210791142308,
+            "pop": 0.00468848692253,
+            "rhy": 0.0020239870064,
+            "roc": 0.000152858716319,
+            "spe": 0.000128305138787
+        },
+        "probability": 0.977514564991,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 201.822036743,
+        "lossless": 0,
+        "replay_gain": -8.55071258545,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "24ef1ae4476224272cdf088d79cbd5d6"
+    },
+    "tags": {
+        "file_name": "camino_feat_jeanna-feels_like_heaven.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

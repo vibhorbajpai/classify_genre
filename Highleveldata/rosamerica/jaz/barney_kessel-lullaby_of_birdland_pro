@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.021310525015,
+            "dan": 0.000354836753104,
+            "hip": 0.0136304749176,
+            "jaz": 0.920660018921,
+            "pop": 0.00105240521953,
+            "rhy": 0.0348996445537,
+            "roc": 0.00231689005159,
+            "spe": 0.00577523093671
+        },
+        "probability": 0.920660018921,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 186.48815918,
+        "lossless": 0,
+        "replay_gain": -6.25521087646,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2cde80335b608ba36a4a293f2645d4ac"
+    },
+    "tags": {
+        "file_name": "barney_kessel-lullaby_of_birdland_pro.mp3",
+        "album": ["Unknown                       "],
+        "artist": ["Unknown                       "],
+        "date": ["2001"],
+        "genre": ["Other"],
+        "title": ["barney kessel - Lullaby of Bi "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

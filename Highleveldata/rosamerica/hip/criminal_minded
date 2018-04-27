@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0358817465603,
+            "dan": 0.00904857926071,
+            "hip": 0.811241447926,
+            "jaz": 0.0303280260414,
+            "pop": 0.0110436426476,
+            "rhy": 0.0629278197885,
+            "roc": 0.00703952554613,
+            "spe": 0.0324892215431
+        },
+        "probability": 0.811241447926,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 319.190216064,
+        "lossless": 0,
+        "replay_gain": -6.17378234863,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2b6c9586457276903d6c694bd88573b7"
+    },
+    "tags": {
+        "file_name": "criminal_minded.mp3",
+        "album": ["100% Hip Hop - The 100 Best HipHop Songs Ever"],
+        "artist": ["Boogie Down Productions"],
+        "genre": ["Other"],
+        "title": ["Criminal Minded"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

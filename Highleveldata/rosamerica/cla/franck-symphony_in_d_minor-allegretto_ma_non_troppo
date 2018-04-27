@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.938354492188,
+            "dan": 0.00126586295664,
+            "hip": 0.0041906889528,
+            "jaz": 0.0379281528294,
+            "pop": 0.00365848233923,
+            "rhy": 0.00986457057297,
+            "roc": 0.000849813572131,
+            "spe": 0.00388795742765
+        },
+        "probability": 0.938354492188,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128031,
+        "equal_loudness": 0,
+        "length": 638.275939941,
+        "lossless": 0,
+        "replay_gain": -3.79077720642,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "51e2ffa6efdca2e4defb9a6cf6c38f48"
+    },
+    "tags": {
+        "file_name": "franck-symphony_in_d_minor-allegretto_ma_non_troppo.mp3",
+        "album": ["Frank: Symphony in D minor and"],
+        "artist": ["Jan Latham-Koenig"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/latham-koenig"],
+        "composer": ["www.magnatune.com\/artists\/latham-koenig"],
+        "copyright": ["2004 Jan Latham-Koenig - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/latham-koenig"],
+        "date": ["2002"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/latham-koenig"],
+        "genre": ["Classical"],
+        "length": ["638000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/latham-koenig"],
+        "title": ["Allegretto, ma non troppo (Sym"],
+        "tracknumber": ["6"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

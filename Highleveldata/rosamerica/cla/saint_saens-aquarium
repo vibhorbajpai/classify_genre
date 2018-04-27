@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.948436796665,
+            "dan": 0.000682126788888,
+            "hip": 0.000906666275114,
+            "jaz": 0.0326866358519,
+            "pop": 0.00581090571359,
+            "rhy": 0.00795857235789,
+            "roc": 0.0010478956392,
+            "spe": 0.00247041252442
+        },
+        "probability": 0.948436796665,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 151.275085449,
+        "lossless": 0,
+        "replay_gain": 9.7644367218,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d703e2820e57f0f14fdbd11b0551f21a"
+    },
+    "tags": {
+        "file_name": "saint_saens-aquarium.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

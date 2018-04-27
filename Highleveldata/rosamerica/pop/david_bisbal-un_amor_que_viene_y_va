@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000691918015946,
+            "dan": 0.010988377966,
+            "hip": 0.00870883092284,
+            "jaz": 0.00743214972317,
+            "pop": 0.760079801083,
+            "rhy": 0.207952558994,
+            "roc": 0.00388324470259,
+            "spe": 0.000263105583144
+        },
+        "probability": 0.760079801083,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 223.895507812,
+        "lossless": 0,
+        "replay_gain": -11.0173530579,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "95fb15c99aab5820e549af58ec186b88"
+    },
+    "tags": {
+        "file_name": "david_bisbal-un_amor_que_viene_y_va.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

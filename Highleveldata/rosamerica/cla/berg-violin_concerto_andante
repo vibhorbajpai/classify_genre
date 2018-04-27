@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.916319191456,
+            "dan": 0.00160506146494,
+            "hip": 0.00508342776448,
+            "jaz": 0.0405695177615,
+            "pop": 0.00459004146978,
+            "rhy": 0.0178364161402,
+            "roc": 0.0018645938253,
+            "spe": 0.0121317617595
+        },
+        "probability": 0.916319191456,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 271.177154541,
+        "lossless": 0,
+        "replay_gain": -4.56186676025,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "50eafaa5c9b00c77cfba06fc319ec259"
+    },
+    "tags": {
+        "file_name": "berg-violin_concerto_andante.mp3",
+        "genre": ["Blues"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0261294730008,
+            "dan": 0.0223160218447,
+            "hip": 0.0266629643738,
+            "jaz": 0.0291598811746,
+            "pop": 0.655664563179,
+            "rhy": 0.177513450384,
+            "roc": 0.0576222017407,
+            "spe": 0.00493146572262
+        },
+        "probability": 0.655664563179,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 260.101226807,
+        "lossless": 0,
+        "replay_gain": -9.73450469971,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "50029eff27bad5355256410307cefc6e"
+    },
+    "tags": {
+        "file_name": "prince-diamonds_and_pearls.mp3",
+        "album": ["Prince The Very Best of Prince"],
+        "artist": ["Prince"],
+        "genre": ["Funk"],
+        "title": ["Diamonds And Pearls"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

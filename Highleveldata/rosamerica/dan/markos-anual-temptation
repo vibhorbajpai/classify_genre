@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 1.85669853181e-06,
+            "dan": 0.997709155083,
+            "hip": 0.000580381893087,
+            "jaz": 3.07228183374e-05,
+            "pop": 2.43545564445e-05,
+            "rhy": 0.000763497722801,
+            "roc": 0.000666344945785,
+            "spe": 0.000223661249038
+        },
+        "probability": 0.997709155083,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 336.744476318,
+        "lossless": 0,
+        "replay_gain": -7.39042854309,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "bf04b398b74aa42abea993224932bb92"
+    },
+    "tags": {
+        "file_name": "markos-anual-temptation.mp3",
+        "album": ["Anual. El álbum dance del año. Progressive & Hard House. ( Cd. 3 )"],
+        "artist": ["Varios"],
+        "genre": ["Other"],
+        "title": ["Temptation"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

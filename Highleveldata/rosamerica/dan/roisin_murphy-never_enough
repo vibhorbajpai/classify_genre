@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000233945611399,
+            "dan": 0.985224723816,
+            "hip": 0.00816253665835,
+            "jaz": 0.000119978751172,
+            "pop": 0.00118405395187,
+            "rhy": 0.00142294191755,
+            "roc": 0.00357434852049,
+            "spe": 7.74737709435e-05
+        },
+        "probability": 0.985224723816,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 226.03755188,
+        "lossless": 0,
+        "replay_gain": -9.2682056427,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "44ad05de5b510e9a1a6e73f373e8301b"
+    },
+    "tags": {
+        "file_name": "roisin_murphy-never_enough.mp3",
+        "album": ["Ibiza MIX 2001 2-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["never enough-boris dlugosch feat. roisin murphy"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0193536430597,
+            "dan": 0.00442942371592,
+            "hip": 0.0116427671164,
+            "jaz": 0.0165712572634,
+            "pop": 0.00550639443099,
+            "rhy": 0.0212200488895,
+            "roc": 0.0060124876909,
+            "spe": 0.915263950825
+        },
+        "probability": 0.915263950825,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 60.1338768005,
+        "lossless": 0,
+        "replay_gain": -6.82576751709,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "fa2b7f690dfcab541cd3412eb9c51b8a"
+    },
+    "tags": {
+        "file_name": "tertulia_04.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"],
+        "genre": ["Blues"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00544048193842,
+            "dan": 0.0817058235407,
+            "hip": 0.0363848730922,
+            "jaz": 0.00870474707335,
+            "pop": 0.695227205753,
+            "rhy": 0.0810249894857,
+            "roc": 0.086027033627,
+            "spe": 0.00548485759646
+        },
+        "probability": 0.695227205753,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 218.749389648,
+        "lossless": 0,
+        "replay_gain": -10.7553253174,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "cadb8ef873d07357a5cd8e9e79650fe4"
+    },
+    "tags": {
+        "file_name": "dune-m_si_the_rhythm_of_life.mp3",
+        "album": ["Musica Si 2-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["m si (the rhythm of life)-dune"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

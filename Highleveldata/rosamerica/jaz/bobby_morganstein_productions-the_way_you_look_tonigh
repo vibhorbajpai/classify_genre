@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0169833526015,
+            "dan": 0.00339357298799,
+            "hip": 0.00355747458525,
+            "jaz": 0.838458657265,
+            "pop": 0.0471370071173,
+            "rhy": 0.0676699578762,
+            "roc": 0.016233952716,
+            "spe": 0.00656603416428
+        },
+        "probability": 0.838458657265,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 239.96081543,
+        "lossless": 0,
+        "replay_gain": -5.71417236328,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e19abfba2b859cd4bed92f6e437d813c"
+    },
+    "tags": {
+        "file_name": "bobby_morganstein_productions-the_way_you_look_tonigh.mp3.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

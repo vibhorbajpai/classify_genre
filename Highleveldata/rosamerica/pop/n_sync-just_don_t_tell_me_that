@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00232511479408,
+            "dan": 0.0283458214253,
+            "hip": 0.0228911116719,
+            "jaz": 0.00365208904259,
+            "pop": 0.868150413036,
+            "rhy": 0.0215812958777,
+            "roc": 0.0523810237646,
+            "spe": 0.000673121132422
+        },
+        "probability": 0.868150413036,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 183.954284668,
+        "lossless": 0,
+        "replay_gain": -11.7040157318,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b8ccefbd6fe64d293153083cc7bd6b70"
+    },
+    "tags": {
+        "file_name": "n_sync-just_don_t_tell_me_that.mp3",
+        "album": ["Celebrity"],
+        "artist": ["'N Sync"],
+        "genre": ["Other"],
+        "title": ["Just Don't Tell Me That"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

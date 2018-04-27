@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0120725836605,
+            "dan": 0.0135860657319,
+            "hip": 0.00999880582094,
+            "jaz": 0.0122596807778,
+            "pop": 0.110467150807,
+            "rhy": 0.0336407758296,
+            "roc": 0.805575549603,
+            "spe": 0.00239936867729
+        },
+        "probability": 0.805575549603,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 204.956741333,
+        "lossless": 0,
+        "replay_gain": -8.37329673767,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "15feb1585f805461c9ab5ee4283cb6a2"
+    },
+    "tags": {
+        "file_name": "hole-violet.mp3",
+        "album": ["Live through this"],
+        "artist": ["Hole"],
+        "date": ["1994"],
+        "genre": ["Other"],
+        "title": ["Violet"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

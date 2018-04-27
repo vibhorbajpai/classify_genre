@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.918636083603,
+            "dan": 0.00231336662546,
+            "hip": 0.00772314239293,
+            "jaz": 0.02837565355,
+            "pop": 0.00582891143858,
+            "rhy": 0.0193006638438,
+            "roc": 0.00287956884131,
+            "spe": 0.0149426255375
+        },
+        "probability": 0.918636083603,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 382.537139893,
+        "lossless": 0,
+        "replay_gain": 2.31208992004,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a9a7d7c2a6c4cb6346660a447a6616b0"
+    },
+    "tags": {
+        "file_name": "berg-allegretto.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

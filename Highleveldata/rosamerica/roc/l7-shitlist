@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000934828654863,
+            "dan": 0.0123797859997,
+            "hip": 0.00628528231755,
+            "jaz": 0.00218495051377,
+            "pop": 0.0252155289054,
+            "rhy": 0.00268288259394,
+            "roc": 0.949271559715,
+            "spe": 0.00104520039167
+        },
+        "probability": 0.949271559715,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 166.87020874,
+        "lossless": 0,
+        "replay_gain": -6.89640617371,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "3285a2256c1233c5fa394ce318d5bed8"
+    },
+    "tags": {
+        "file_name": "l7-shitlist.mp3",
+        "album": ["Natural Born Killers"],
+        "artist": ["L7"],
+        "genre": ["Soundtrack"],
+        "title": ["Shit List"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

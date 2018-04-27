@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00968653243035,
+            "dan": 0.0127355186269,
+            "hip": 0.00509165832773,
+            "jaz": 0.015253521502,
+            "pop": 0.110471330583,
+            "rhy": 0.00901525747031,
+            "roc": 0.833730876446,
+            "spe": 0.0040153330192
+        },
+        "probability": 0.833730876446,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 284.525726318,
+        "lossless": 0,
+        "replay_gain": -10.8338356018,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "0592f17c38d7e2c99d3114c3ea95af08"
+    },
+    "tags": {
+        "file_name": "jerry_cantrell-angel_eyes.mp3",
+        "album": ["Degradation Trip (Advance)    "],
+        "artist": ["Jerry Cantrell                "],
+        "date": ["2002"],
+        "genre": ["Metal"],
+        "title": ["Angel Eyes                    "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00148128822912,
+            "dan": 0.958900392056,
+            "hip": 0.0246427617967,
+            "jaz": 0.00367339840159,
+            "pop": 0.00520325591788,
+            "rhy": 0.00314545468427,
+            "roc": 0.000753818952944,
+            "spe": 0.00219963560812
+        },
+        "probability": 0.958900392056,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 204.669387817,
+        "lossless": 0,
+        "replay_gain": -10.3974533081,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "02dfddc8601805ae1023f3b80f13fef9"
+    },
+    "tags": {
+        "file_name": "mario_lopez-the_sun_always_shin_on_tv.mp3",
+        "album": ["Anual. El álbum dance del año. Progressive & Hard House. ( Cd. 3 )"],
+        "artist": ["Varios"],
+        "genre": ["Other"],
+        "title": ["The sun always shin on TV"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

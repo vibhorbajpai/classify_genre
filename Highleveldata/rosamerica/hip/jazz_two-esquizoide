@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000501097179949,
+            "dan": 0.00694269733503,
+            "hip": 0.899270832539,
+            "jaz": 0.0130211627111,
+            "pop": 0.00606417329982,
+            "rhy": 0.0724065899849,
+            "roc": 0.00124398735352,
+            "spe": 0.000549469492398
+        },
+        "probability": 0.899270832539,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 228.911026001,
+        "lossless": 0,
+        "replay_gain": -11.3169746399,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "27bcf366af9497b57997e67e7e156fc1"
+    },
+    "tags": {
+        "file_name": "jazz_two-esquizoide.mp3",
+        "album": ["Nomon"],
+        "artist": ["Jazz Two (Jazz Two)"],
+        "date": ["1998"],
+        "title": ["Esquizoide"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

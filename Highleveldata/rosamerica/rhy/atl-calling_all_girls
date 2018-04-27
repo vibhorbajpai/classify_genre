@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0250106398016,
+            "dan": 0.0189218763262,
+            "hip": 0.0820694938302,
+            "jaz": 0.0404938422143,
+            "pop": 0.0197495948523,
+            "rhy": 0.795607209206,
+            "roc": 0.00230058981106,
+            "spe": 0.0158467274159
+        },
+        "probability": 0.795607209206,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 252.891433716,
+        "lossless": 0,
+        "replay_gain": -7.1832447052,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c49012d494b15f3ed4058f8265028cf8"
+    },
+    "tags": {
+        "file_name": "atl-calling_all_girls.mp3",
+        "album": ["Calling All Girls Vinyl"],
+        "artist": ["Atl Ft. Jazze Pha, T.I. & Dang"],
+        "date": ["2003"],
+        "genre": ["R&B"],
+        "title": ["Calling All Girls (Jazze_Pha_&"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

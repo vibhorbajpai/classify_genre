@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00994291622192,
+            "dan": 0.0178177896887,
+            "hip": 0.832997024059,
+            "jaz": 0.0190108194947,
+            "pop": 0.0225663036108,
+            "rhy": 0.0735799446702,
+            "roc": 0.0114661436528,
+            "spe": 0.0126190809533
+        },
+        "probability": 0.832997024059,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 197.485717773,
+        "lossless": 0,
+        "replay_gain": -8.85467720032,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9c440a416ce0c2cbb85c3df00f326676"
+    },
+    "tags": {
+        "file_name": "dr_octagon-3000.mp3",
+        "album": ["Dr. Octagonecologyst"],
+        "artist": ["Dr. Octagon"],
+        "genre": ["Other"],
+        "title": ["3000"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

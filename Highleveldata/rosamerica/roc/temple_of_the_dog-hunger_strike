@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0299423485994,
+            "dan": 0.00920890178531,
+            "hip": 0.0025535132736,
+            "jaz": 0.0151539659128,
+            "pop": 0.108011610806,
+            "rhy": 0.0355923548341,
+            "roc": 0.792666494846,
+            "spe": 0.00687081925571
+        },
+        "probability": 0.792666494846,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 246.360809326,
+        "lossless": 0,
+        "replay_gain": -7.207862854,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "da48b72b7a5a868fe32f33896cbebf52"
+    },
+    "tags": {
+        "file_name": "temple_of_the_dog-hunger_strike.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

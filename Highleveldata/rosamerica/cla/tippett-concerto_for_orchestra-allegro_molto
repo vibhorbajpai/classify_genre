@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.942533791065,
+            "dan": 0.000850121490657,
+            "hip": 0.00146058609243,
+            "jaz": 0.0323655158281,
+            "pop": 0.00398747250438,
+            "rhy": 0.0107474271208,
+            "roc": 0.000756281020585,
+            "spe": 0.0072987950407
+        },
+        "probability": 0.942533791065,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 609.201660156,
+        "lossless": 0,
+        "replay_gain": -5.48118782043,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "207044c5fdb3b0a2336e79251219a9ea"
+    },
+    "tags": {
+        "file_name": "tippett-concerto_for_orchestra-allegro_molto.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

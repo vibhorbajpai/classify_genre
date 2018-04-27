@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0249542091042,
+            "dan": 0.0131896268576,
+            "hip": 0.0237346850336,
+            "jaz": 0.802775979042,
+            "pop": 0.0341063924134,
+            "rhy": 0.0710861608386,
+            "roc": 0.0180289503187,
+            "spe": 0.0121239917353
+        },
+        "probability": 0.802775979042,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 492.146942139,
+        "lossless": 0,
+        "replay_gain": -7.95389938354,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "78d6e2bb4eb92db9ab1dd6d09863e7c3"
+    },
+    "tags": {
+        "file_name": "art_blakey-couldnt_it_be_you.mp3",
+        "album": ["A Night In Tunisia (New Editio"],
+        "artist": ["Art Blakey"],
+        "date": ["2002"],
+        "genre": ["Other"],
+        "title": ["Couldn't It Be You"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

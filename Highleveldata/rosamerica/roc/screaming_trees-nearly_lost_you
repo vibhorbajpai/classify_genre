@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000615159748122,
+            "dan": 0.00296025187708,
+            "hip": 0.00135895248968,
+            "jaz": 0.00057524710428,
+            "pop": 0.0560975447297,
+            "rhy": 0.00142855651211,
+            "roc": 0.936913311481,
+            "spe": 5.09806377522e-05
+        },
+        "probability": 0.936913311481,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 248.320007324,
+        "lossless": 0,
+        "replay_gain": -8.7387008667,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ae2e3751d0faa0a5f46958d3ba18ec91"
+    },
+    "tags": {
+        "file_name": "screaming_trees-nearly_lost_you.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

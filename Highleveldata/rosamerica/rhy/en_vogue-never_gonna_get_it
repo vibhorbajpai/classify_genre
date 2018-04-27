@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00483855279163,
+            "dan": 0.0209943745285,
+            "hip": 0.0905639231205,
+            "jaz": 0.0200247187167,
+            "pop": 0.0925583839417,
+            "rhy": 0.750087022781,
+            "roc": 0.0169923920184,
+            "spe": 0.00394062045962
+        },
+        "probability": 0.750087022781,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 282.383666992,
+        "lossless": 0,
+        "replay_gain": -9.78659248352,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e6cce15ae0571147f34125474f4af6cd"
+    },
+    "tags": {
+        "file_name": "en_vogue-never_gonna_get_it.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

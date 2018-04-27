@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.962580442429,
+            "dan": 0.00326390052214,
+            "hip": 0.00474646361545,
+            "jaz": 0.00739571871236,
+            "pop": 0.00252254214138,
+            "rhy": 0.00933910068125,
+            "roc": 0.0026593261864,
+            "spe": 0.00749249663204
+        },
+        "probability": 0.962580442429,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 207.38609314,
+        "lossless": 0,
+        "replay_gain": -2.46181297302,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2b52adfa3c858349a51ede30854af392"
+    },
+    "tags": {
+        "file_name": "boccherini-sonata_a_violoncello_e_basso.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

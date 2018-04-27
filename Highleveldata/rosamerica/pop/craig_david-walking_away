@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000129472609842,
+            "dan": 0.00278289988637,
+            "hip": 0.00270594493486,
+            "jaz": 0.00446066725999,
+            "pop": 0.773816585541,
+            "rhy": 0.211758419871,
+            "roc": 0.00422414578497,
+            "spe": 0.000121843586385
+        },
+        "probability": 0.773816585541,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 201.377960205,
+        "lossless": 0,
+        "replay_gain": -8.65945243835,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "03ed61209059a9e753ee6c39267b984a"
+    },
+    "tags": {
+        "file_name": "craig_david-walking_away.mp3",
+        "album": ["Boom 2001. Cd 1"],
+        "artist": ["Various artists"],
+        "genre": ["Other"],
+        "title": ["Craig David - Walking away"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

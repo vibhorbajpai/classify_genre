@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0141954440624,
+            "dan": 0.0251317638904,
+            "hip": 0.0176674742252,
+            "jaz": 0.0272566247731,
+            "pop": 0.0808626711369,
+            "rhy": 0.0369419492781,
+            "roc": 0.787729084492,
+            "spe": 0.0102149723098
+        },
+        "probability": 0.787729084492,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 294.530609131,
+        "lossless": 0,
+        "replay_gain": -5.34149551392,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "64e9b5fd50d97548cfa58364d1b23dca"
+    },
+    "tags": {
+        "file_name": "candlebox-far_behind.mp3",
+        "date": ["0"],
+        "title": ["Candlebox - Far Behind"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.888042211533,
+            "dan": 0.00258051301353,
+            "hip": 0.00109839020297,
+            "jaz": 0.0237616319209,
+            "pop": 0.0217944681644,
+            "rhy": 0.0209428872913,
+            "roc": 0.0403874069452,
+            "spe": 0.00139249803033
+        },
+        "probability": 0.888042211533,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 146.651428223,
+        "lossless": 0,
+        "replay_gain": -7.94582748413,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1f53d6c3421261ecfe79601d140b07a4"
+    },
+    "tags": {
+        "file_name": "wagner-tristan_e_isolda.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

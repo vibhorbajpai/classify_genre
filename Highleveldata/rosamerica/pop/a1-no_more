@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00306812836789,
+            "dan": 0.0759371817112,
+            "hip": 0.0240386761725,
+            "jaz": 0.00503201363608,
+            "pop": 0.767643451691,
+            "rhy": 0.0985596999526,
+            "roc": 0.0230648033321,
+            "spe": 0.0026560141705
+        },
+        "probability": 0.767643451691,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 222.328170776,
+        "lossless": 0,
+        "replay_gain": -11.9729251862,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "4668a7f85c1ed81f059b9d8d24082d8b"
+    },
+    "tags": {
+        "file_name": "a1-no_more.mp3",
+        "album": ["Todo en 1 -El Album- 2-4"],
+        "artist": ["Todo en 1 -El Album-"],
+        "genre": ["Other"],
+        "title": ["a1-no more"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

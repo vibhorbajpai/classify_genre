@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000204578711418,
+            "dan": 0.0138726234436,
+            "hip": 0.00224911421537,
+            "jaz": 0.00072515301872,
+            "pop": 0.116109922528,
+            "rhy": 0.00270209112205,
+            "roc": 0.863963067532,
+            "spe": 0.000173453910975
+        },
+        "probability": 0.863963067532,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 255.242446899,
+        "lossless": 0,
+        "replay_gain": -12.2272529602,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d22fe6ba95016ea65a3a445c7f71b0ab"
+    },
+    "tags": {
+        "file_name": "gavin_rossdale-adrenaline.mp3",
+        "album": ["XXX OST                       "],
+        "artist": ["gavin rossdale                "],
+        "date": ["2002"],
+        "genre": ["Soundtrack"],
+        "title": ["adrenaline                    "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0117388423532,
+            "dan": 0.00780368363485,
+            "hip": 0.0110935866833,
+            "jaz": 0.0252530742437,
+            "pop": 0.725680589676,
+            "rhy": 0.198404833674,
+            "roc": 0.0170250572264,
+            "spe": 0.00300035253167
+        },
+        "probability": 0.725680589676,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 233.58694458,
+        "lossless": 0,
+        "replay_gain": -10.5874843597,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "65f99b3cda2d980be1e6792de71201a6"
+    },
+    "tags": {
+        "file_name": "carlos_baute-amar_a_dos.mp3",
+        "album": ["Dame De Eso"],
+        "artist": ["Carlos Baute"],
+        "genre": ["Other"],
+        "title": ["Amar A Dos"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

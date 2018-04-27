@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000141451353556,
+            "dan": 0.00678807543591,
+            "hip": 0.000272311153822,
+            "jaz": 0.000505588948727,
+            "pop": 0.0463416390121,
+            "rhy": 0.000438682298409,
+            "roc": 0.945413589478,
+            "spe": 9.86382656265e-05
+        },
+        "probability": 0.945413589478,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 204.408157349,
+        "lossless": 0,
+        "replay_gain": -11.1512908936,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2f356ddec60976d768f44ab38eda3126"
+    },
+    "tags": {
+        "file_name": "bowling_for_soup-the_bitch_song.mp3",
+        "album": ["Musica Si 2-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["the bitch song-bowling for soup"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

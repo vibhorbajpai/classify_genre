@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.949775338173,
+            "dan": 0.0013038162142,
+            "hip": 0.001232858398,
+            "jaz": 0.02990790084,
+            "pop": 0.00268689938821,
+            "rhy": 0.00388353643939,
+            "roc": 0.00166973576415,
+            "spe": 0.00953992176801
+        },
+        "probability": 0.949775338173,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 297.090576172,
+        "lossless": 0,
+        "replay_gain": -2.74691200256,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8b228a7f113722f3c5394ee427de5126"
+    },
+    "tags": {
+        "file_name": "prokofieff-cellosonate_c_dur-moderato.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

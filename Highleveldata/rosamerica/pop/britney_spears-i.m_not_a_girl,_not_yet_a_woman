@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00439143925905,
+            "dan": 0.00823291391134,
+            "hip": 0.00111236795783,
+            "jaz": 0.0103764431551,
+            "pop": 0.815490186214,
+            "rhy": 0.118695177138,
+            "roc": 0.041019231081,
+            "spe": 0.000682233483531
+        },
+        "probability": 0.815490186214,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 230.399993896,
+        "lossless": 0,
+        "replay_gain": -10.2892875671,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5f8d36ed848ba92d530b9b565754bdbd"
+    },
+    "tags": {
+        "file_name": "britney_spears-i.m_not_a_girl,_not_yet_a_woman.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

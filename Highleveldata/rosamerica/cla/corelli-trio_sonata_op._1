@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.903032302856,
+            "dan": 0.00759900920093,
+            "hip": 0.00812078546733,
+            "jaz": 0.0180068351328,
+            "pop": 0.0125197423622,
+            "rhy": 0.0299816187471,
+            "roc": 0.0156086198986,
+            "spe": 0.00513106537983
+        },
+        "probability": 0.903032302856,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128304,
+        "equal_loudness": 0,
+        "length": 64.8881607056,
+        "lossless": 0,
+        "replay_gain": -6.59892654419,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2dce735f06772ef85a4a574e6d0e8a6c"
+    },
+    "tags": {
+        "file_name": "corelli-trio_sonata_op._1.mp3",
+        "album": ["Handel Oxford Water Music"],
+        "artist": ["Brook Street Band"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "composer": ["www.magnatune.com\/artists\/brook_street"],
+        "copyright": ["2004 Brook Street Band - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "date": ["2003"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "genre": ["Classical"],
+        "length": ["65000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "title": ["Corelli Trio Sonata Op. 1 No."],
+        "tracknumber": ["12"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

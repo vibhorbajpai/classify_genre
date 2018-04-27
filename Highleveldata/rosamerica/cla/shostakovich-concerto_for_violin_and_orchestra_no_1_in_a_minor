@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.87225908041,
+            "dan": 0.00789700355381,
+            "hip": 0.0222419593483,
+            "jaz": 0.0302725750953,
+            "pop": 0.0176397748291,
+            "rhy": 0.0350141003728,
+            "roc": 0.00394583307207,
+            "spe": 0.0107297003269
+        },
+        "probability": 0.87225908041,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 276.297149658,
+        "lossless": 0,
+        "replay_gain": -2.702917099,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8094a6b96f5c63876d2ec7ee66c482a0"
+    },
+    "tags": {
+        "file_name": "shostakovich-concerto_for_violin_and_orchestra_no_1_in_a_minor.mp3",
+        "album": ["Mendelssohn & Shostakovich Violin Concertos"],
+        "artist": ["D. Shostakovich"],
+        "date": ["2002"],
+        "title": ["Concerto for Violin No. 1, IV. Burlesque"],
+        "tracknumber": ["8\/8"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0100754853338,
+            "dan": 0.00779523095116,
+            "hip": 0.0347135029733,
+            "jaz": 0.0215944442898,
+            "pop": 0.0095175113529,
+            "rhy": 0.0215229950845,
+            "roc": 0.00938497856259,
+            "spe": 0.885395824909
+        },
+        "probability": 0.885395824909,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 60.1338768005,
+        "lossless": 0,
+        "replay_gain": -3.703956604,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "db5e86e3b2d8572dc936c68bc7bc9212"
+    },
+    "tags": {
+        "file_name": "speech_9_catradio.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

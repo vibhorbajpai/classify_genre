@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00178343825974,
+            "dan": 0.948234736919,
+            "hip": 0.0106566660106,
+            "jaz": 0.0021267158445,
+            "pop": 0.01072314661,
+            "rhy": 0.0144285112619,
+            "roc": 0.0113605186343,
+            "spe": 0.000686288985889
+        },
+        "probability": 0.948234736919,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 207.438369751,
+        "lossless": 0,
+        "replay_gain": -10.7986736298,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2abaacd46a317a8620ed9ef99a801540"
+    },
+    "tags": {
+        "file_name": "eve-the_only_way_is_up.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

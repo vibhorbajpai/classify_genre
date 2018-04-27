@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00128918327391,
+            "dan": 0.0407033860683,
+            "hip": 0.0836541205645,
+            "jaz": 0.00350655126385,
+            "pop": 0.0466260276735,
+            "rhy": 0.816706359386,
+            "roc": 0.00555965583771,
+            "spe": 0.0019547289703
+        },
+        "probability": 0.816706359386,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 241.972244263,
+        "lossless": 0,
+        "replay_gain": -6.53724098206,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "4db5c99ae4adc8f921a62a484b26372c"
+    },
+    "tags": {
+        "file_name": "remy_shand-take_a_message.mp3",
+        "artist": ["Remy Shand"],
+        "date": ["0"],
+        "genre": ["Soul"],
+        "title": ["Take A Message"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

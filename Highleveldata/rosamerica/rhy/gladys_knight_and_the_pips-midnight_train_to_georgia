@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0068242973648,
+            "dan": 0.0168776847422,
+            "hip": 0.0367731601,
+            "jaz": 0.0230431612581,
+            "pop": 0.194906979799,
+            "rhy": 0.688277125359,
+            "roc": 0.0271362345666,
+            "spe": 0.00616137310863
+        },
+        "probability": 0.688277125359,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 275.905303955,
+        "lossless": 0,
+        "replay_gain": -9.64949417114,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ec0a799b4dbce4d2bb74b3fe23ba6a33"
+    },
+    "tags": {
+        "file_name": "gladys_knight_and_the_pips-midnight_train_to_georgia.mp3",
+        "album": ["                              "],
+        "artist": ["Gladys Knight and the Pips    "],
+        "date": ["    "],
+        "genre": ["Soul"],
+        "title": ["Midnight Train To Georgia'    "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

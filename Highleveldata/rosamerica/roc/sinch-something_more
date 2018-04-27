@@ -1,0 +1,55 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00166785798501,
+            "dan": 0.00518705043942,
+            "hip": 0.00382570386864,
+            "jaz": 0.00160246004816,
+            "pop": 0.120413430035,
+            "rhy": 0.00251484685577,
+            "roc": 0.863832712173,
+            "spe": 0.000955922238063
+        },
+        "probability": 0.863832712173,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 225.384490967,
+        "lossless": 0,
+        "replay_gain": -10.6280479431,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e81416a658f66920bce73e634acb24a8"
+    },
+    "tags": {
+        "file_name": "sinch-something_more.mp3",
+        "album": ["Sinch (Retail)"],
+        "artist": ["Sinch"],
+        "date": ["2002"],
+        "genre": ["Hard Rock"],
+        "title": ["Something More"],
+        "tracknumber": ["4"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

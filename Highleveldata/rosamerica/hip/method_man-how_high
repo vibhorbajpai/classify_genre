@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0183865129948,
+            "dan": 0.0105667710304,
+            "hip": 0.895062804222,
+            "jaz": 0.011429569684,
+            "pop": 0.00562862865627,
+            "rhy": 0.0299415513873,
+            "roc": 0.00325103267096,
+            "spe": 0.0257331263274
+        },
+        "probability": 0.895062804222,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 279.797546387,
+        "lossless": 0,
+        "replay_gain": -7.14904785156,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f63907e5adaca8f8078a14a6d7ad6f3c"
+    },
+    "tags": {
+        "file_name": "method_man-how_high.mp3",
+        "album": ["The Show                      "],
+        "artist": ["Redman and Method Man         "],
+        "date": ["    "],
+        "genre": ["Hip-Hop"],
+        "title": ["How High                      "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

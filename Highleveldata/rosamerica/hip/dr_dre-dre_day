@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0148662682623,
+            "dan": 0.0313882194459,
+            "hip": 0.818973660469,
+            "jaz": 0.0228623989969,
+            "pop": 0.0246912762523,
+            "rhy": 0.064701013267,
+            "roc": 0.0105229904875,
+            "spe": 0.011994170025
+        },
+        "probability": 0.818973660469,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 292.284088135,
+        "lossless": 0,
+        "replay_gain": -10.45662117,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "4cd90aa6bf662a1ab6d7b3fa24d93934"
+    },
+    "tags": {
+        "file_name": "dr_dre-dre_day.mp3",
+        "title": ["Dr.Dre - Dre Day"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

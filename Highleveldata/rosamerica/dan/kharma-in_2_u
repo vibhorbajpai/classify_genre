@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00645105959848,
+            "dan": 0.833141028881,
+            "hip": 0.0452774651349,
+            "jaz": 0.024616163224,
+            "pop": 0.027924111113,
+            "rhy": 0.0532398372889,
+            "roc": 0.00267867045477,
+            "spe": 0.00667166942731
+        },
+        "probability": 0.833141028881,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 202.213882446,
+        "lossless": 0,
+        "replay_gain": -8.96161651611,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5d94b373717ab92a3117eb8127ba4e32"
+    },
+    "tags": {
+        "file_name": "kharma-in_2_u.mp3",
+        "album": ["Pioneer the Album vol.2"],
+        "artist": ["Progressive"],
+        "genre": ["Other"],
+        "title": ["Kharma - In 2 U"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

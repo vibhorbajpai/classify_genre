@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00159456965048,
+            "dan": 0.00762933678925,
+            "hip": 0.897701501846,
+            "jaz": 0.00166467600502,
+            "pop": 0.0164351910353,
+            "rhy": 0.0710523724556,
+            "roc": 0.00300964294001,
+            "spe": 0.000912707124371
+        },
+        "probability": 0.897701501846,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 265.325714111,
+        "lossless": 0,
+        "replay_gain": -6.1330242157,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ff44f905a38ec4d526392b9594befd54"
+    },
+    "tags": {
+        "file_name": "spice_and_celly_cell-red_rum.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00283440109342,
+            "dan": 0.0326072238386,
+            "hip": 0.849376738071,
+            "jaz": 0.018753439188,
+            "pop": 0.0232200734317,
+            "rhy": 0.0568156279624,
+            "roc": 0.0116636520252,
+            "spe": 0.00472884625196
+        },
+        "probability": 0.849376738071,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 361.534698486,
+        "lossless": 0,
+        "replay_gain": -7.04088783264,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "09d43aa782a09fbd10a0f59d25408e0d"
+    },
+    "tags": {
+        "file_name": "biz_markie-vapors.mp3",
+        "album": ["                              "],
+        "artist": ["Biz Markie                    "],
+        "date": ["1986"],
+        "title": ["Vapors                        "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

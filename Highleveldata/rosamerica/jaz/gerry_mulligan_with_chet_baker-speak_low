@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0466215275228,
+            "dan": 0.00228728889488,
+            "hip": 0.00372103974223,
+            "jaz": 0.86110162735,
+            "pop": 0.00578251481056,
+            "rhy": 0.067481726408,
+            "roc": 0.00197140523233,
+            "spe": 0.0110328448936
+        },
+        "probability": 0.86110162735,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 129.044891357,
+        "lossless": 0,
+        "replay_gain": -7.27550888062,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "422475b2aed38e8a565c200dee4f8474"
+    },
+    "tags": {
+        "file_name": "gerry_mulligan_with_chet_baker-speak_low.mp3",
+        "album": ["Gene Norman Presents The Origi"],
+        "artist": ["Gerry Mulligan Tentet and Quar"],
+        "genre": ["Jazz"],
+        "title": ["Speak Low"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

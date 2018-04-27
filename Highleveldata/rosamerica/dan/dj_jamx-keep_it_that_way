@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00730214780197,
+            "dan": 0.85742098093,
+            "hip": 0.0177249815315,
+            "jaz": 0.0158729664981,
+            "pop": 0.0396718122065,
+            "rhy": 0.0465181618929,
+            "roc": 0.00609421310946,
+            "spe": 0.00939470715821
+        },
+        "probability": 0.85742098093,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 399.882446289,
+        "lossless": 0,
+        "replay_gain": -8.05443763733,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e5cdeb163f931ed90500ba478a89530f"
+    },
+    "tags": {
+        "file_name": "dj_jamx-keep_it_that_way.mp3",
+        "album": ["Pioneer the Album vol.2"],
+        "artist": ["Progressive"],
+        "genre": ["Other"],
+        "title": ["Dj JamX - Keep It That Way Pt. 2 (Dj Gert Rmx)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

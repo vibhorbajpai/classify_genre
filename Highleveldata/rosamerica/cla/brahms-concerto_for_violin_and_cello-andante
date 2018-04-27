@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.936960577965,
+            "dan": 0.0019040844636,
+            "hip": 0.00259650172666,
+            "jaz": 0.0262704081833,
+            "pop": 0.0105374781415,
+            "rhy": 0.0141248209402,
+            "roc": 0.00281478231773,
+            "spe": 0.00479132356122
+        },
+        "probability": 0.936960577965,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 488.097961426,
+        "lossless": 0,
+        "replay_gain": -3.86913299561,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "227ad16362762d1a3233648d0f77f311"
+    },
+    "tags": {
+        "file_name": "brahms-concerto_for_violin_and_cello-andante.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

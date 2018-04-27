@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00261640292592,
+            "dan": 0.00870899204165,
+            "hip": 0.93393611908,
+            "jaz": 0.00565201649442,
+            "pop": 0.0171145536005,
+            "rhy": 0.0249605849385,
+            "roc": 0.00512623507529,
+            "spe": 0.00188509875443
+        },
+        "probability": 0.93393611908,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 392.019592285,
+        "lossless": 0,
+        "replay_gain": -10.1498737335,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "27965441a8ccb18c30a011163ff5d541"
+    },
+    "tags": {
+        "file_name": "grandmaster_flash-the_message.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

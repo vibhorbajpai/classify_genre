@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 2.67935301963e-05,
+            "dan": 0.00285729044117,
+            "hip": 0.994633734226,
+            "jaz": 8.55224425322e-05,
+            "pop": 0.000110978980956,
+            "rhy": 0.00207659322768,
+            "roc": 2.73484438367e-05,
+            "spe": 0.000181761337444
+        },
+        "probability": 0.994633734226,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 224.444076538,
+        "lossless": 0,
+        "replay_gain": -7.08178329468,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "89c589a3d54ad68925026ba1b986d440"
+    },
+    "tags": {
+        "file_name": "eric_b_and_rakim-paid_in_full.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

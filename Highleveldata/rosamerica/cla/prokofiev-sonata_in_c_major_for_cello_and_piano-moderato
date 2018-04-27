@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.912746727467,
+            "dan": 0.0012552117696,
+            "hip": 0.00111594516784,
+            "jaz": 0.0408329591155,
+            "pop": 0.00867428164929,
+            "rhy": 0.0240833666176,
+            "roc": 0.00440799817443,
+            "spe": 0.0068834819831
+        },
+        "probability": 0.912746727467,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 299.023651123,
+        "lossless": 0,
+        "replay_gain": 1.77831077576,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "6a1f1c68d9ec8d454f218368ad8bd9fe"
+    },
+    "tags": {
+        "file_name": "prokofiev-sonata_in_c_major_for_cello_and_piano-moderato.mp3",
+        "album": ["String Quartets n 1 & 2 Cello Sonata "],
+        "artist": ["Sergey Prokofiev"],
+        "date": ["1994"],
+        "genre": ["Classical"],
+        "title": ["Sonata in C Major for Cello and Piano Op 119 - II Moderato"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

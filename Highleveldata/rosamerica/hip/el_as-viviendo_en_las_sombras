@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0168394632638,
+            "dan": 0.00219164113514,
+            "hip": 0.881574869156,
+            "jaz": 0.0380621403456,
+            "pop": 0.00282374443486,
+            "rhy": 0.042147539556,
+            "roc": 0.002446542494,
+            "spe": 0.0139140617102
+        },
+        "probability": 0.881574869156,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 239.124893188,
+        "lossless": 0,
+        "replay_gain": -7.57966423035,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "13f71555c8d33e776f2b247a257f7e64"
+    },
+    "tags": {
+        "file_name": "el_as-viviendo_en_las_sombras.mp3",
+        "album": ["Tras la reja de alambre"],
+        "artist": ["Gandul, El As (Gandul, El As)"],
+        "date": ["1998"],
+        "title": ["Viviendo en las sombras. (No p"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

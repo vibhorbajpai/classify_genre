@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00549276219681,
+            "dan": 0.00374889513478,
+            "hip": 0.00359000079334,
+            "jaz": 0.00249679083936,
+            "pop": 0.114415317774,
+            "rhy": 0.00269321235828,
+            "roc": 0.867250561714,
+            "spe": 0.00031247313018
+        },
+        "probability": 0.867250561714,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 195.369796753,
+        "lossless": 0,
+        "replay_gain": -8.4552936554,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a29dbb83f6e9b6421db3623f0de83d82"
+    },
+    "tags": {
+        "file_name": "paw-jessie.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00637299055234,
+            "dan": 0.0170513186604,
+            "hip": 0.0492730885744,
+            "jaz": 0.0192907396704,
+            "pop": 0.167172580957,
+            "rhy": 0.729369282722,
+            "roc": 0.00628878595307,
+            "spe": 0.00518123107031
+        },
+        "probability": 0.729369282722,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 309.237548828,
+        "lossless": 0,
+        "replay_gain": -7.22781944275,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "67b753333a97b884e5a9b1f33d4b53aa"
+    },
+    "tags": {
+        "file_name": "mariah_carey-boy_feat_camron.mp3",
+        "album": ["Charmbracelet                 "],
+        "artist": ["mariah carey                  "],
+        "date": ["2002"],
+        "genre": ["Pop"],
+        "title": ["boy (i need you) feat camron  "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

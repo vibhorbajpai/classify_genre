@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.002150477143,
+            "dan": 0.0742986723781,
+            "hip": 0.0401552766562,
+            "jaz": 0.00456486502662,
+            "pop": 0.743036091328,
+            "rhy": 0.102046430111,
+            "roc": 0.029951646924,
+            "spe": 0.00379656022415
+        },
+        "probability": 0.743036091328,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 204.382034302,
+        "lossless": 0,
+        "replay_gain": -8.08440208435,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9592cb65dd48597ecdf6c9d38da0c458"
+    },
+    "tags": {
+        "file_name": "david_ivera-sospecho.mp3",
+        "album": ["Dile que la quiero"],
+        "artist": ["David Civera"],
+        "genre": ["Other"],
+        "title": ["02 Sospecho"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

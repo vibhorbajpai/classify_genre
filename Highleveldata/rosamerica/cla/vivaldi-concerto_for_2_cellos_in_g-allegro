@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.868179559708,
+            "dan": 0.00706013850868,
+            "hip": 0.00761414598674,
+            "jaz": 0.0437013730407,
+            "pop": 0.0197061318904,
+            "rhy": 0.0287678390741,
+            "roc": 0.0112280268222,
+            "spe": 0.0137427961454
+        },
+        "probability": 0.868179559708,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 175822,
+        "equal_loudness": 0,
+        "length": 198.37387085,
+        "lossless": 0,
+        "replay_gain": -2.8154335022,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f4ed00788e4eaa16c424f1a06153d9af"
+    },
+    "tags": {
+        "file_name": "vivaldi-concerto_for_2_cellos_in_g-allegro.mp3",
+        "album": ["Naxos 8.550908 [DDD]"],
+        "artist": ["Antonio Vivaldi"],
+        "date": ["1994"],
+        "title": ["Concerto in Gm, RV 531, 3rd"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

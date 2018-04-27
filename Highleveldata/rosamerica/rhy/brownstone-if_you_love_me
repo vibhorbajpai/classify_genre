@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0028526650276,
+            "dan": 0.0216064136475,
+            "hip": 0.0624362081289,
+            "jaz": 0.0210455320776,
+            "pop": 0.192913174629,
+            "rhy": 0.690785169601,
+            "roc": 0.00569207686931,
+            "spe": 0.00266878330149
+        },
+        "probability": 0.690785169601,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 305.789398193,
+        "lossless": 0,
+        "replay_gain": -6.88816261292,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9dbbc53aad3cc8dfc6863ea120ef9578"
+    },
+    "tags": {
+        "file_name": "brownstone-if_you_love_me.mp3",
+        "album": ["Sexy Soul - CD1"],
+        "artist": ["Brownstone"],
+        "date": ["2002"],
+        "genre": ["Soul"],
+        "title": ["If You Love Me"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

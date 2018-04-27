@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00673748599365,
+            "dan": 0.00469411723316,
+            "hip": 0.0106127914041,
+            "jaz": 0.918843388557,
+            "pop": 0.00895683001727,
+            "rhy": 0.0435141734779,
+            "roc": 0.00135989394039,
+            "spe": 0.00528134312481
+        },
+        "probability": 0.918843388557,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 301.557556152,
+        "lossless": 0,
+        "replay_gain": -5.37034225464,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5e347d1fc9bd1f682fa4e410c424087b"
+    },
+    "tags": {
+        "file_name": "dizzy_gillespie_and_stan_getz-exactly_like_you-bla.mp3",
+        "album": ["Diz & Getz "],
+        "artist": ["Dizzy Gillespie & Stan Getz"],
+        "date": ["2001"],
+        "genre": ["Jazz"],
+        "title": ["exactly like you"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

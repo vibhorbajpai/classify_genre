@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00297484872863,
+            "dan": 0.007653654553,
+            "hip": 0.00165984209161,
+            "jaz": 0.00155060354155,
+            "pop": 0.0297716148198,
+            "rhy": 0.00383093743585,
+            "roc": 0.950905203819,
+            "spe": 0.00165326846763
+        },
+        "probability": 0.950905203819,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 318.64163208,
+        "lossless": 0,
+        "replay_gain": -8.26514816284,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5bee00ed3aabc2d5cc900e8b1a18537c"
+    },
+    "tags": {
+        "file_name": "pearl_jam-jeremy.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

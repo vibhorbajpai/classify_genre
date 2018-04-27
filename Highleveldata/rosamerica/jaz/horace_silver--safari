@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0189997125417,
+            "dan": 0.0183844212443,
+            "hip": 0.0121351117268,
+            "jaz": 0.814673185349,
+            "pop": 0.0469283126295,
+            "rhy": 0.0479637645185,
+            "roc": 0.0257252845913,
+            "spe": 0.0151901980862
+        },
+        "probability": 0.814673185349,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 171.702850342,
+        "lossless": 0,
+        "replay_gain": -7.72340774536,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9cbbf93c9e23ec492a02dce50d192562"
+    },
+    "tags": {
+        "file_name": "horace_silver--safari.mp3",
+        "album": ["The Blue Note Years Vol.1"],
+        "artist": ["Horace Silver"],
+        "date": ["1998"],
+        "genre": ["Jazz"],
+        "title": ["Safari"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

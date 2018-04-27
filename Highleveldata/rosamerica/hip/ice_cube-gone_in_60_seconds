@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000186202916666,
+            "dan": 0.00467607052997,
+            "hip": 0.976793110371,
+            "jaz": 0.000922884384636,
+            "pop": 0.000681521662045,
+            "rhy": 0.0164944455028,
+            "roc": 0.000156041031005,
+            "spe": 8.97445934243e-05
+        },
+        "probability": 0.976793110371,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 181.133056641,
+        "lossless": 0,
+        "replay_gain": -12.4188117981,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "636289679a5914a179771070629d1f5e"
+    },
+    "tags": {
+        "file_name": "ice_cube-gone_in_60_seconds.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

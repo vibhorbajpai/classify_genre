@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00324334460311,
+            "dan": 0.0518866740167,
+            "hip": 0.012405635789,
+            "jaz": 0.00772202154621,
+            "pop": 0.704691469669,
+            "rhy": 0.185767173767,
+            "roc": 0.0318974964321,
+            "spe": 0.00238618045114
+        },
+        "probability": 0.704691469669,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 292.963256836,
+        "lossless": 0,
+        "replay_gain": -9.53926849365,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a6dbab1911492d1ae23a713b8d2e3d4b"
+    },
+    "tags": {
+        "file_name": "chayanne-volver_a_nacer.mp3",
+        "album": ["Grandes Exitos"],
+        "artist": ["Chayanne"],
+        "genre": ["Other"],
+        "title": ["Volver A Nacer"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

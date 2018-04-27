@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0340323112905,
+            "dan": 0.0138437449932,
+            "hip": 0.0319442227483,
+            "jaz": 0.0762253776193,
+            "pop": 0.154606685042,
+            "rhy": 0.65536993742,
+            "roc": 0.018387073651,
+            "spe": 0.0155906537548
+        },
+        "probability": 0.65536993742,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 228.597549438,
+        "lossless": 0,
+        "replay_gain": -9.2865447998,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "522533d6e7487ee56de222377328c513"
+    },
+    "tags": {
+        "file_name": "alicia_keys-if_i_aint_got_you.mp3",
+        "album": ["Nederlandse Top 40 - Week 17"],
+        "artist": ["Alicia Keys"],
+        "date": ["2004"],
+        "genre": ["Top 40"],
+        "title": ["If I aint got you"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

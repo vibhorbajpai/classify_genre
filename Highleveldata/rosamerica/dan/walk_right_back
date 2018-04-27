@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000639496487565,
+            "dan": 0.977816343307,
+            "hip": 0.00182027509436,
+            "jaz": 0.000779303780291,
+            "pop": 0.012369886972,
+            "rhy": 0.00457418290898,
+            "roc": 0.00178523268551,
+            "spe": 0.000215263164137
+        },
+        "probability": 0.977816343307,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 258.037536621,
+        "lossless": 0,
+        "replay_gain": -9.81950569153,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e69183dd5b15418a98153f5b9ad6955b"
+    },
+    "tags": {
+        "file_name": "walk_right_back.mp3",
+        "album": ["The original sessions. Vol. V. Techno"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": [" Walk right back"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00114669639152,
+            "dan": 0.00738854706287,
+            "hip": 0.949693739414,
+            "jaz": 0.00743781169876,
+            "pop": 0.0137155363336,
+            "rhy": 0.00956075266004,
+            "roc": 0.0075389589183,
+            "spe": 0.00351794390008
+        },
+        "probability": 0.949693739414,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 291.500396729,
+        "lossless": 0,
+        "replay_gain": -10.1905441284,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "934a3ae32c6208ae3ad8a696dfdf4b2d"
+    },
+    "tags": {
+        "file_name": "pacto_e_c-perros_guardianes.mp3",
+        "album": ["Memorandum"],
+        "artist": ["Pacto E.C. (Pacto E.C.)"],
+        "date": ["1999"],
+        "title": ["Perros guardianes"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

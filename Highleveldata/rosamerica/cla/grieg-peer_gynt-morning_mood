@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.96587741375,
+            "dan": 0.00112866517156,
+            "hip": 0.00358142144978,
+            "jaz": 0.0199200734496,
+            "pop": 0.00135875667911,
+            "rhy": 0.00629723304883,
+            "roc": 0.000565442373045,
+            "spe": 0.00127102073748
+        },
+        "probability": 0.96587741375,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 258.063659668,
+        "lossless": 0,
+        "replay_gain": 1.6406917572,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "eb93653ddfec4cd01b9bf0554c12b30f"
+    },
+    "tags": {
+        "file_name": "grieg-peer_gynt-morning_mood.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

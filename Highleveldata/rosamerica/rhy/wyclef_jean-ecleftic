@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000678604876157,
+            "dan": 0.0156523231417,
+            "hip": 0.0789523273706,
+            "jaz": 0.00237594777718,
+            "pop": 0.0198061037809,
+            "rhy": 0.879243135452,
+            "roc": 0.0012182847131,
+            "spe": 0.0020732646808
+        },
+        "probability": 0.879243135452,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 267.102050781,
+        "lossless": 0,
+        "replay_gain": -2.91335296631,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c7eb18432d6565d9a52c4e55610c2055"
+    },
+    "tags": {
+        "file_name": "wyclef_jean-ecleftic.mp3",
+        "album": ["Ecletic                       "],
+        "artist": ["Wyclef Jean                   "],
+        "date": ["2000"],
+        "genre": ["Hip-Hop"],
+        "title": ["Nine-1-One                    "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

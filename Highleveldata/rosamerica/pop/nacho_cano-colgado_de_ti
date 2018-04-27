@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0363889634609,
+            "dan": 0.00420458009467,
+            "hip": 0.00898117013276,
+            "jaz": 0.0349536016583,
+            "pop": 0.700049757957,
+            "rhy": 0.194489300251,
+            "roc": 0.0134319486097,
+            "spe": 0.00750071229413
+        },
+        "probability": 0.700049757957,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 234.893066406,
+        "lossless": 0,
+        "replay_gain": -10.7652072906,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1ba3bce85cf2dcfb9e6f0d9b3c9b9b36"
+    },
+    "tags": {
+        "file_name": "nacho_cano-colgado_de_ti.mp3",
+        "album": ["Nacho Cano"],
+        "artist": ["Nacho Cano"],
+        "genre": ["Other"],
+        "title": ["Colgado de ti"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

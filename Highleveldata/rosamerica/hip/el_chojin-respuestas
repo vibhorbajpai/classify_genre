@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0486369393766,
+            "dan": 0.00604005949572,
+            "hip": 0.892938494682,
+            "jaz": 0.00116616871674,
+            "pop": 0.00708373263478,
+            "rhy": 0.0326000414789,
+            "roc": 0.0110796429217,
+            "spe": 0.000454935303424
+        },
+        "probability": 0.892938494682,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 175.777954102,
+        "lossless": 0,
+        "replay_gain": -13.4211215973,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9a6030004b410a3b2f1024a5db84e25f"
+    },
+    "tags": {
+        "file_name": "el_chojin-respuestas.mp3",
+        "album": ["Solo para adultos"],
+        "artist": ["El Chojin"],
+        "genre": ["Other"],
+        "title": ["Respuestas"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

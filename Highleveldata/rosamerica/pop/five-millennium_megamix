@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0105509450659,
+            "dan": 0.0441308654845,
+            "hip": 0.0294253025204,
+            "jaz": 0.0135250166059,
+            "pop": 0.706603944302,
+            "rhy": 0.069614097476,
+            "roc": 0.120137400925,
+            "spe": 0.0060124383308
+        },
+        "probability": 0.706603944302,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 73.0383682251,
+        "lossless": 0,
+        "replay_gain": -12.4713115692,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c28468d239564e258db6ca2ef8a97c45"
+    },
+    "tags": {
+        "file_name": "five-millennium_megamix.mp3",
+        "album": ["Let's Dance"],
+        "artist": ["Five"],
+        "genre": ["Other"],
+        "title": ["Millennium Megamix"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

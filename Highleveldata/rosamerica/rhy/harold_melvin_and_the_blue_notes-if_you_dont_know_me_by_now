@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0620613954961,
+            "dan": 0.0136132324114,
+            "hip": 0.0115058366209,
+            "jaz": 0.0497344322503,
+            "pop": 0.163795292377,
+            "rhy": 0.665235459805,
+            "roc": 0.0303917620331,
+            "spe": 0.00366258434951
+        },
+        "probability": 0.665235459805,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 207.542861938,
+        "lossless": 0,
+        "replay_gain": -5.87538337708,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "35c1a5492bfce273158f8ec50837e9e6"
+    },
+    "tags": {
+        "file_name": "harold_melvin_and_the_blue_notes-if_you_dont_know_me_by_now.mp3",
+        "album": ["L'amour - CD5"],
+        "artist": ["Harold Melvin & The Blue Notes"],
+        "title": ["If you dont know me by now"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

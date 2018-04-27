@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00407767901197,
+            "dan": 0.000894964032341,
+            "hip": 0.0012654758757,
+            "jaz": 0.907992720604,
+            "pop": 0.0086968364194,
+            "rhy": 0.0719824805856,
+            "roc": 0.00215189647861,
+            "spe": 0.00293797045015
+        },
+        "probability": 0.907992720604,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 198.7918396,
+        "lossless": 0,
+        "replay_gain": -8.22550582886,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ee021f7bb0820c6d2343fd5941acf669"
+    },
+    "tags": {
+        "file_name": "billy_holiday-now_or_never.mp3",
+        "album": ["BD Jazz"],
+        "artist": ["Billie Holiday"],
+        "date": ["2003"],
+        "genre": ["Jazz"],
+        "title": ["Now Or Never"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

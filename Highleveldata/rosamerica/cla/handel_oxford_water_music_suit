@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.886278092861,
+            "dan": 0.00547411851585,
+            "hip": 0.00943348743021,
+            "jaz": 0.0321881771088,
+            "pop": 0.0196081157774,
+            "rhy": 0.0264520347118,
+            "roc": 0.00767861260101,
+            "spe": 0.0128873344511
+        },
+        "probability": 0.886278092861,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128259,
+        "equal_loudness": 0,
+        "length": 76.199180603,
+        "lossless": 0,
+        "replay_gain": -8.47854042053,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8283127300208025a911ef1e9e5ff6ff"
+    },
+    "tags": {
+        "file_name": "handel_oxford_water_music_suit.mp3",
+        "album": ["Handel Oxford Water Music"],
+        "artist": ["Brook Street Band"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "composer": ["www.magnatune.com\/artists\/brook_street"],
+        "copyright": ["2004 Brook Street Band - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "date": ["2003"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "genre": ["Classical"],
+        "length": ["76000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/brook_street"],
+        "title": ["Handel Oxford Water Music Suit"],
+        "tracknumber": ["22"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

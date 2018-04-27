@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0165631156415,
+            "dan": 0.00858908798546,
+            "hip": 0.839131951332,
+            "jaz": 0.0242227166891,
+            "pop": 0.0135725447908,
+            "rhy": 0.0735695138574,
+            "roc": 0.00520161911845,
+            "spe": 0.0191494636238
+        },
+        "probability": 0.839131951332,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 217.88734436,
+        "lossless": 0,
+        "replay_gain": -6.89752006531,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "00f4f35c09306092e3181d003b76bf86"
+    },
+    "tags": {
+        "file_name": "2pac-fuck_snoop_doggy_dog.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

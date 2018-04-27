@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00688940891996,
+            "dan": 0.0101683987305,
+            "hip": 0.0261737294495,
+            "jaz": 0.868815302849,
+            "pop": 0.00744095956907,
+            "rhy": 0.0660635977983,
+            "roc": 0.00634326552972,
+            "spe": 0.00810536462814
+        },
+        "probability": 0.868815302849,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 524.303649902,
+        "lossless": 0,
+        "replay_gain": -4.90222740173,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b65f8f199aaa7b046318fbd499cc02f2"
+    },
+    "tags": {
+        "file_name": "miles-davis-straight_no_chaser.mp3",
+        "album": ["At Newport 1958"],
+        "artist": ["Miles Davis"],
+        "date": ["2001"],
+        "genre": ["Other"],
+        "title": ["Straight, No Chaser (Live)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

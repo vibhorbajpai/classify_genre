@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00208653579466,
+            "dan": 0.869596898556,
+            "hip": 0.0299351811409,
+            "jaz": 0.00278663868085,
+            "pop": 0.0314581282437,
+            "rhy": 0.0506103783846,
+            "roc": 0.0113173294812,
+            "spe": 0.0022088943515
+        },
+        "probability": 0.869596898556,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 223.582046509,
+        "lossless": 0,
+        "replay_gain": -12.0027675629,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f6b47a59cfe7583bcca38c829e2d6924"
+    },
+    "tags": {
+        "file_name": "master_mood-better_for_you.mp3",
+        "album": ["Solo Numeros 1 2001 CD2"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["better for you-master mood"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00135308539029,
+            "dan": 0.00240092095919,
+            "hip": 0.00461499160156,
+            "jaz": 0.975889146328,
+            "pop": 0.00324695301242,
+            "rhy": 0.00629238691181,
+            "roc": 0.00545778917149,
+            "spe": 0.000744739547372
+        },
+        "probability": 0.975889146328,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 436.976318359,
+        "lossless": 0,
+        "replay_gain": -8.32650375366,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "cc8d21b06328bf1ec395380034a8f98e"
+    },
+    "tags": {
+        "file_name": "art_blakey-off_the_wall.mp3",
+        "album": ["A Night In Tunisia (New Editio"],
+        "artist": ["Art Blakey"],
+        "date": ["2002"],
+        "genre": ["Other"],
+        "title": ["Off The Wall"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000764996628277,
+            "dan": 0.00392218958586,
+            "hip": 0.0109783085063,
+            "jaz": 0.917714476585,
+            "pop": 0.0030971202068,
+            "rhy": 0.0600089430809,
+            "roc": 0.00138513697311,
+            "spe": 0.00212881318294
+        },
+        "probability": 0.917714476585,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 325.328979492,
+        "lossless": 0,
+        "replay_gain": -3.87550735474,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9344a0a876b34c95e3fd541641300632"
+    },
+    "tags": {
+        "file_name": "gary_burton--bags_groove.mp3",
+        "album": ["For Hamp, Red, Bags & Cal"],
+        "artist": ["Gary Burton"],
+        "date": ["2001"],
+        "genre": ["Other"],
+        "title": ["Bag's Groove"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

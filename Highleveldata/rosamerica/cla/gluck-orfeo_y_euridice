@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.938412129879,
+            "dan": 0.000732189335395,
+            "hip": 0.00294727738947,
+            "jaz": 0.0385777875781,
+            "pop": 0.0049382513389,
+            "rhy": 0.0120793748647,
+            "roc": 0.000944688508753,
+            "spe": 0.00136827339884
+        },
+        "probability": 0.938412129879,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 242.625305176,
+        "lossless": 0,
+        "replay_gain": -4.40563011169,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "79007a47406620df9dd2c3de7965f10c"
+    },
+    "tags": {
+        "file_name": "gluck-orfeo_y_euridice.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

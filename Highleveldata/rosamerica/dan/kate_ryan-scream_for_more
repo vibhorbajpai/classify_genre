@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00817201379687,
+            "dan": 0.843764960766,
+            "hip": 0.0548711642623,
+            "jaz": 0.0139579363167,
+            "pop": 0.0241048689932,
+            "rhy": 0.0350353978574,
+            "roc": 0.0147643983364,
+            "spe": 0.00532922893763
+        },
+        "probability": 0.843764960766,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 243.408981323,
+        "lossless": 0,
+        "replay_gain": -10.8466053009,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "741e8f0a2c1acb35a4a9e36df81e3809"
+    },
+    "tags": {
+        "file_name": "kate_ryan-scream_for_more.mp3",
+        "album": ["Cultura De Club (CD 2)"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Kate Ryan - Scream For More"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

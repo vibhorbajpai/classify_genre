@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0377436950803,
+            "dan": 0.00200891541317,
+            "hip": 0.0150525243953,
+            "jaz": 0.839726865292,
+            "pop": 0.0139466952533,
+            "rhy": 0.0744444876909,
+            "roc": 0.0075497510843,
+            "spe": 0.009527053684
+        },
+        "probability": 0.839726865292,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 319.764892578,
+        "lossless": 0,
+        "replay_gain": -7.13478279114,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b7495b86de4928ccc8a338c143b802ac"
+    },
+    "tags": {
+        "file_name": "cannonball_adderly_miles_davis_charlie_parker_dizzy_gillespie_art_blakey_charlie_mingus-toy.mp3",
+        "artist": ["Miles Davis, Charlie Parker, Cannonball Adderly, Dizzy Gillespie, Art Blakey, Charlie Mingus"],
+        "genre": ["Other"],
+        "title": ["Toy"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

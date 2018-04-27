@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 2.60188755874e-07,
+            "dan": 0.999217033386,
+            "hip": 2.15921190829e-05,
+            "jaz": 7.95592131908e-05,
+            "pop": 2.7569660233e-05,
+            "rhy": 6.5853491833e-05,
+            "roc": 0.000532426638529,
+            "spe": 5.56953782507e-05
+        },
+        "probability": 0.999217033386,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 215.013870239,
+        "lossless": 0,
+        "replay_gain": -9.70632362366,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "33003e38f81cc9402e6e34865d45ce93"
+    },
+    "tags": {
+        "file_name": "bartherzz-infected.mp3",
+        "album": ["Anual. El álbum dance del año. Progressive & Hard House. ( Cd. 3 )"],
+        "artist": ["Varios"],
+        "genre": ["Other"],
+        "title": ["Infected"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

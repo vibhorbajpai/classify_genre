@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00598726700991,
+            "dan": 0.0356956645846,
+            "hip": 0.868250191212,
+            "jaz": 0.0128056351095,
+            "pop": 0.0160873550922,
+            "rhy": 0.0527118965983,
+            "roc": 0.00500009208918,
+            "spe": 0.00346189690754
+        },
+        "probability": 0.868250191212,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 292.754272461,
+        "lossless": 0,
+        "replay_gain": -10.3655281067,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8b1b435f47a959e492c45d032fb56dac"
+    },
+    "tags": {
+        "file_name": "nwa_eazy_e-8_ball.mp3",
+        "album": ["                              "],
+        "artist": ["NWA                           "],
+        "date": ["    "],
+        "genre": ["Other"],
+        "title": ["NWA - Eazy E - 8 ball         "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

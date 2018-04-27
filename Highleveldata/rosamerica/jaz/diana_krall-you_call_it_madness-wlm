@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.026769740507,
+            "dan": 0.00142542202957,
+            "hip": 0.00711470935494,
+            "jaz": 0.866764962673,
+            "pop": 0.0132675310597,
+            "rhy": 0.0706031098962,
+            "roc": 0.00119563820772,
+            "spe": 0.0128588592634
+        },
+        "probability": 0.866764962673,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 277.263671875,
+        "lossless": 0,
+        "replay_gain": -3.8002204895,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "bae1e34271eb9f33fa55596a83ddaa31"
+    },
+    "tags": {
+        "file_name": "diana_krall-you_call_it_madness-wlm.mp3",
+        "album": ["Jazz After Dark"],
+        "artist": ["Diana Krall"],
+        "date": ["2002"],
+        "genre": ["Other"],
+        "title": ["You Call It Madness"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

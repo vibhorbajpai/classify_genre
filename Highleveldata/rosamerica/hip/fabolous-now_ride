@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00327996956185,
+            "dan": 0.00394235458225,
+            "hip": 0.926535487175,
+            "jaz": 0.0259790532291,
+            "pop": 0.0100335665047,
+            "rhy": 0.0246520061046,
+            "roc": 0.00282304524444,
+            "spe": 0.00275450083427
+        },
+        "probability": 0.926535487175,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 171.728973389,
+        "lossless": 0,
+        "replay_gain": -11.3839454651,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "06b7e18017fe08ea20213ac2ed5399ec"
+    },
+    "tags": {
+        "file_name": "fabolous-now_ride.mp3",
+        "album": ["Honey"],
+        "artist": ["Honey Original Soundtrack"],
+        "genre": ["Soundtrack"],
+        "title": ["Now Ride\/ Fabolous"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000148456849274,
+            "dan": 0.0366082824767,
+            "hip": 0.00647414429113,
+            "jaz": 0.000973238027655,
+            "pop": 0.201954603195,
+            "rhy": 0.75211006403,
+            "roc": 0.00151806965005,
+            "spe": 0.000213125269511
+        },
+        "probability": 0.75211006403,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 260.466949463,
+        "lossless": 0,
+        "replay_gain": -8.01208877563,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8178d45cfa715bedb250c732e8e7cee8"
+    },
+    "tags": {
+        "file_name": "n_sync-selfish.mp3",
+        "album": ["Celebrity"],
+        "artist": ["'N Sync"],
+        "genre": ["Other"],
+        "title": ["Selfish"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

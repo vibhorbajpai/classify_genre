@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0128917582333,
+            "dan": 0.83015859127,
+            "hip": 0.0239707957953,
+            "jaz": 0.0135375633836,
+            "pop": 0.0455032363534,
+            "rhy": 0.0344599410892,
+            "roc": 0.0319101661444,
+            "spe": 0.00756795564666
+        },
+        "probability": 0.83015859127,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 204.956741333,
+        "lossless": 0,
+        "replay_gain": -9.24415779114,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c6ee744a0209ed32145e78dfdee20183"
+    },
+    "tags": {
+        "file_name": "jan_wayne-only_you.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

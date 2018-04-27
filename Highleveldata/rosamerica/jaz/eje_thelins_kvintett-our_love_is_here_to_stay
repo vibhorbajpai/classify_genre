@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00661372765899,
+            "dan": 0.00902892835438,
+            "hip": 0.0124614574015,
+            "jaz": 0.854242563248,
+            "pop": 0.0381241180003,
+            "rhy": 0.0696440935135,
+            "roc": 0.00755840539932,
+            "spe": 0.00232672854327
+        },
+        "probability": 0.854242563248,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 169.299591064,
+        "lossless": 0,
+        "replay_gain": -4.13104248047,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "46b803d1777b4215faac935ef897523c"
+    },
+    "tags": {
+        "file_name": "eje_thelins_kvintett-our_love_is_here_to_stay.mp3",
+        "album": ["Svensk Jazzhistoria Vol 8 "],
+        "artist": ["Eje Thelins Kvintett"],
+        "date": ["2002"],
+        "genre": ["Jazz"],
+        "title": ["Our Love is Here to Stay "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000268713221885,
+            "dan": 0.0357077680528,
+            "hip": 0.0188684966415,
+            "jaz": 0.00646517053246,
+            "pop": 0.734097838402,
+            "rhy": 0.202793732285,
+            "roc": 0.00137642922346,
+            "spe": 0.000421843753429
+        },
+        "probability": 0.734097838402,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 218.749389648,
+        "lossless": 0,
+        "replay_gain": -9.87980079651,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c8e3b13380b148c52163e3b4ca7cbf4f"
+    },
+    "tags": {
+        "file_name": "christina_aguilera-genie_in_a_bottle.mp3",
+        "album": ["Woman II"],
+        "artist": ["Woman II -By Stuff-"],
+        "genre": ["Other"],
+        "title": ["Christina Aguilera- Genie In A Bottle"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

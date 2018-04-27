@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.950390279293,
+            "dan": 0.00211819424294,
+            "hip": 0.00362997688353,
+            "jaz": 0.0249283909798,
+            "pop": 0.00400644494221,
+            "rhy": 0.00938552618027,
+            "roc": 0.00114093790762,
+            "spe": 0.00440025422722
+        },
+        "probability": 0.950390279293,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 183944,
+        "equal_loudness": 0,
+        "length": 366.759185791,
+        "lossless": 0,
+        "replay_gain": -6.8111038208,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "85b32020aec993f3f9066848e96ed8b6"
+    },
+    "tags": {
+        "file_name": "haydn-cello_concerto_no_2_in_d_major-rondo.mp3",
+        "album": ["Favourite Cello Concertos, D.."],
+        "artist": ["Jacqueline Du Pre"],
+        "title": ["Rondo (Allegro)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

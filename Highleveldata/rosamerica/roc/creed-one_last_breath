@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0272646471858,
+            "dan": 0.0130813336,
+            "hip": 0.00893746875226,
+            "jaz": 0.0191032849252,
+            "pop": 0.107317090034,
+            "rhy": 0.045889057219,
+            "roc": 0.76880466938,
+            "spe": 0.00960246473551
+        },
+        "probability": 0.76880466938,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 226.873474121,
+        "lossless": 0,
+        "replay_gain": -9.4220867157,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "6eac3f5a7b9f1923ae606c1bffb2b8aa"
+    },
+    "tags": {
+        "file_name": "creed-one_last_breath.mp3",
+        "artist": ["Creed"],
+        "genre": ["Blues"],
+        "title": ["One Last Breathe"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

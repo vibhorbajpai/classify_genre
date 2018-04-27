@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00070093391696,
+            "dan": 0.0141997793689,
+            "hip": 0.00463927863166,
+            "jaz": 0.000758590875193,
+            "pop": 0.112430147827,
+            "rhy": 0.00484063662589,
+            "roc": 0.861881971359,
+            "spe": 0.000548676645849
+        },
+        "probability": 0.861881971359,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 131.3959198,
+        "lossless": 0,
+        "replay_gain": -9.84300041199,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f5c098e9e86731825c1c826ce8ab6488"
+    },
+    "tags": {
+        "file_name": "presidents_of_the_united_states_of_america-lump.mp3",
+        "genre": ["Other"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

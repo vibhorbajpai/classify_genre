@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000552306417376,
+            "dan": 0.0278654824942,
+            "hip": 0.872417211533,
+            "jaz": 0.00110274879262,
+            "pop": 0.0288639720529,
+            "rhy": 0.0614412091672,
+            "roc": 0.00697641354054,
+            "spe": 0.000780656351708
+        },
+        "probability": 0.872417211533,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 242.285720825,
+        "lossless": 0,
+        "replay_gain": -6.43543815613,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "239545e35a9a79c3a4102a26dd861b88"
+    },
+    "tags": {
+        "file_name": "too_short-quit_hatin.mp3",
+        "album": ["Quit Hatin Pt.1"],
+        "artist": ["Too Short ft Twista Lil Jon"],
+        "date": ["2002"],
+        "genre": ["Other"],
+        "title": ["Quit Hatin Pt.1 (Dirty)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

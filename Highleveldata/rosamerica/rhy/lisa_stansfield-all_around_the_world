@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0012717708014,
+            "dan": 0.0231992304325,
+            "hip": 0.00952252745628,
+            "jaz": 0.0272079203278,
+            "pop": 0.200592562556,
+            "rhy": 0.721834599972,
+            "roc": 0.0155927222222,
+            "spe": 0.000778694171458
+        },
+        "probability": 0.721834599972,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 268.669372559,
+        "lossless": 0,
+        "replay_gain": -11.0964012146,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "94c1875601a33b169cf012a9a617cf9d"
+    },
+    "tags": {
+        "file_name": "lisa_stansfield-all_around_the_world.mp3",
+        "album": ["platinum"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Lisa Stansfield - All around the world"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

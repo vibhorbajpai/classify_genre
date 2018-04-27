@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0329769924283,
+            "dan": 0.0337951257825,
+            "hip": 0.0894173011184,
+            "jaz": 0.0550987198949,
+            "pop": 0.107385322452,
+            "rhy": 0.643021643162,
+            "roc": 0.0145370457321,
+            "spe": 0.0237678512931
+        },
+        "probability": 0.643021643162,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 265.560821533,
+        "lossless": 0,
+        "replay_gain": -9.71334266663,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f92ddbe9fff3fc981b7cdf0233d126dc"
+    },
+    "tags": {
+        "file_name": "janet_jackson-that.s_the_way_love_goes.mp3",
+        "album": ["Music of the Millennium II. ( Cd. 2 )"],
+        "artist": ["Varios artistas"],
+        "genre": ["Other"],
+        "title": ["That's the way love goes - Janet Jackson"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

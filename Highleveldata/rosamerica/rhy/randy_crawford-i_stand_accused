@@ -1,0 +1,56 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0235203374177,
+            "dan": 0.000261664506979,
+            "hip": 0.000924003135879,
+            "jaz": 0.0663148462772,
+            "pop": 0.00501908920705,
+            "rhy": 0.896877586842,
+            "roc": 0.00048591606901,
+            "spe": 0.00659657968208
+        },
+        "probability": 0.896877586842,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 160000,
+        "equal_loudness": 0,
+        "length": 292.597564697,
+        "lossless": 0,
+        "replay_gain": -7.2036113739,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8d64d4040ebad0bb09766db0a5cf2ff1"
+    },
+    "tags": {
+        "file_name": "randy_crawford-i_stand_accused.mp3",
+        "album": ["The very best of Randy Crawford"],
+        "artist": ["Randy Crawford"],
+        "genre": ["genre"],
+        "length": ["292440"],
+        "media": ["DIG"],
+        "title": ["I stand accused"],
+        "tracknumber": ["15"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

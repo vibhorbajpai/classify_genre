@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00500211166218,
+            "dan": 0.0178195927292,
+            "hip": 0.0130106406286,
+            "jaz": 0.848458468914,
+            "pop": 0.024450937286,
+            "rhy": 0.0685827359557,
+            "roc": 0.01587343961,
+            "spe": 0.00680208485574
+        },
+        "probability": 0.848458468914,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 195.108566284,
+        "lossless": 0,
+        "replay_gain": -6.26886749268,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "72207e97709223bd81c6c9f356478f78"
+    },
+    "tags": {
+        "file_name": "gil_melle--timepiece.mp3",
+        "album": ["The Blue Note Years Vol.1"],
+        "artist": ["Gil Mellé"],
+        "date": ["1998"],
+        "genre": ["Jazz"],
+        "title": ["Timepiece"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00968070328236,
+            "dan": 0.0344020500779,
+            "hip": 0.0103149106726,
+            "jaz": 0.00882815662771,
+            "pop": 0.814312279224,
+            "rhy": 0.0320733487606,
+            "roc": 0.0897143855691,
+            "spe": 0.000674181967042
+        },
+        "probability": 0.814312279224,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 196.675918579,
+        "lossless": 0,
+        "replay_gain": -12.715429306,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b71d5eafe731380079b13e19ddb248d3"
+    },
+    "tags": {
+        "file_name": "billie_piper-day_and_night.mp3",
+        "album": ["Musica Si 2-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["day & night-billie piper"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

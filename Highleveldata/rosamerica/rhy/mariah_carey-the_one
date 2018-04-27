@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0037042463664,
+            "dan": 0.0836707800627,
+            "hip": 0.0182597078383,
+            "jaz": 0.00909006875008,
+            "pop": 0.139020264149,
+            "rhy": 0.724561572075,
+            "roc": 0.0152149051428,
+            "spe": 0.00647844746709
+        },
+        "probability": 0.724561572075,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 242.834289551,
+        "lossless": 0,
+        "replay_gain": -5.95248603821,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "3516da58e06948eb91fe1eb1a2fb7c2f"
+    },
+    "tags": {
+        "file_name": "mariah_carey-the_one.mp3",
+        "album": ["Charmbracelet                 "],
+        "artist": ["mariah carey                  "],
+        "date": ["2002"],
+        "genre": ["Pop"],
+        "title": ["the one                       "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

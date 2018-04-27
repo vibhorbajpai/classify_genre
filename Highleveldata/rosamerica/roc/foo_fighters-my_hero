@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000724726065528,
+            "dan": 0.000313229626045,
+            "hip": 0.000295571284369,
+            "jaz": 0.000157336588018,
+            "pop": 0.00129274616484,
+            "rhy": 0.000868871284183,
+            "roc": 0.996143937111,
+            "spe": 0.000203555246117
+        },
+        "probability": 0.996143937111,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 260.101226807,
+        "lossless": 0,
+        "replay_gain": -10.3278312683,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "553bc1cab76e2e19759a9e2cd5a887a3"
+    },
+    "tags": {
+        "file_name": "foo_fighters-my_hero.mp3",
+        "album": ["The Colour And The Shape"],
+        "artist": ["Foo Fighters"],
+        "date": ["1997"],
+        "genre": ["Alternative Rock"],
+        "title": ["My Hero"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0224836915731,
+            "dan": 0.00200555985793,
+            "hip": 0.00323947099969,
+            "jaz": 0.00163280381821,
+            "pop": 0.00744588207453,
+            "rhy": 0.0139911863953,
+            "roc": 0.948541760445,
+            "spe": 0.000659665325657
+        },
+        "probability": 0.948541760445,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 235.676727295,
+        "lossless": 0,
+        "replay_gain": -11.3926467896,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "be7e8c2af4e0983a382e841017587398"
+    },
+    "tags": {
+        "file_name": "the_afghan_whigs-summer_s_kiss.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

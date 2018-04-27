@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0221612043679,
+            "dan": 0.00311717297882,
+            "hip": 0.0288784392178,
+            "jaz": 0.0692293420434,
+            "pop": 0.103474311531,
+            "rhy": 0.739397823811,
+            "roc": 0.0301179680973,
+            "spe": 0.00362374074757
+        },
+        "probability": 0.739397823811,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 335.699584961,
+        "lossless": 0,
+        "replay_gain": -4.07374000549,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5e87df09397d0ef6a470fdb5141f7825"
+    },
+    "tags": {
+        "file_name": "bobby_womack_feat_patti_labelle-love_has_finally_come.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

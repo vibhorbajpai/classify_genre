@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.892631947994,
+            "dan": 0.00336370803416,
+            "hip": 0.0127229737118,
+            "jaz": 0.041567414999,
+            "pop": 0.008484470658,
+            "rhy": 0.0215856321156,
+            "roc": 0.00432687159628,
+            "spe": 0.0153169827536
+        },
+        "probability": 0.892631947994,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 116.715103149,
+        "lossless": 0,
+        "replay_gain": -5.84936904907,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "abec08214caf5bdb58e40859c34c2541"
+    },
+    "tags": {
+        "file_name": "bruckner-virga_jesse.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

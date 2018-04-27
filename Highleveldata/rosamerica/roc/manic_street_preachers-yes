@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000771965656895,
+            "dan": 0.00671995803714,
+            "hip": 0.0030686147511,
+            "jaz": 0.000734232191462,
+            "pop": 0.00472838943824,
+            "rhy": 0.0188687220216,
+            "roc": 0.964754879475,
+            "spe": 0.000353223091224
+        },
+        "probability": 0.964754879475,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 291.13470459,
+        "lossless": 0,
+        "replay_gain": -7.24687004089,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ae20c2dcf5f3b1fba359aaaacc3e83f7"
+    },
+    "tags": {
+        "file_name": "manic_street_preachers-yes.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

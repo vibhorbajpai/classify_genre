@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00342531385832,
+            "dan": 0.0236491300166,
+            "hip": 0.0833482071757,
+            "jaz": 0.0328094363213,
+            "pop": 0.109843358397,
+            "rhy": 0.728216230869,
+            "roc": 0.0134574780241,
+            "spe": 0.0052508325316
+        },
+        "probability": 0.728216230869,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 248.241638184,
+        "lossless": 0,
+        "replay_gain": -10.5616207123,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b46db84c34c2fbf30194205f3fabc1d1"
+    },
+    "tags": {
+        "file_name": "next-too_close.mp3",
+        "album": ["Sexy Soul - CD1"],
+        "artist": ["Next"],
+        "date": ["2002"],
+        "genre": ["Soul"],
+        "title": ["Too Close"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

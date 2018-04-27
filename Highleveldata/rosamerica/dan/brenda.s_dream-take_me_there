@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00132381054573,
+            "dan": 0.926696956158,
+            "hip": 0.0179916396737,
+            "jaz": 0.00176714046393,
+            "pop": 0.0307418871671,
+            "rhy": 0.0154091659933,
+            "roc": 0.00551628088579,
+            "spe": 0.000553095480427
+        },
+        "probability": 0.926696956158,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 251.350204468,
+        "lossless": 0,
+        "replay_gain": -9.12885284424,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e15844f4223e06d3d63cfd4fdcac1119"
+    },
+    "tags": {
+        "file_name": "brenda.s_dream-take_me_there.mp3",
+        "album": ["Solo Numeros 1 2001 CD2"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["take me there-brenda's dream"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

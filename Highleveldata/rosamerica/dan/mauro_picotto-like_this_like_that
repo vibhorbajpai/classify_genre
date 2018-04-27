@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000810983648989,
+            "dan": 0.911591589451,
+            "hip": 0.0488443933427,
+            "jaz": 0.00196426920593,
+            "pop": 0.00988078303635,
+            "rhy": 0.0213920418173,
+            "roc": 0.003373272717,
+            "spe": 0.00214267289266
+        },
+        "probability": 0.911591589451,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 251.794281006,
+        "lossless": 0,
+        "replay_gain": -10.431640625,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "32754dab4f46c3f0624263706c6f3760"
+    },
+    "tags": {
+        "file_name": "mauro_picotto-like_this_like_that.mp3",
+        "album": ["DISCO ALEGRIA 2001-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Like this like that"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000225084761041,
+            "dan": 0.0525601916015,
+            "hip": 0.00152261857875,
+            "jaz": 0.00101362355053,
+            "pop": 0.73717135191,
+            "rhy": 0.116151444614,
+            "roc": 0.0909951552749,
+            "spe": 0.000360563048162
+        },
+        "probability": 0.73717135191,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 229.69468689,
+        "lossless": 0,
+        "replay_gain": -7.71658325195,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8389a6a67535ccc2bcc1255154e5740c"
+    },
+    "tags": {
+        "file_name": "efecto_mariposa-sola.mp3",
+        "album": ["Boom 2001. Cd 2"],
+        "artist": ["Boom 2001"],
+        "genre": ["Other"],
+        "title": ["Efecto mariposa - Sola"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

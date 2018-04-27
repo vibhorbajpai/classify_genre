@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00188439548947,
+            "dan": 0.00342008331791,
+            "hip": 0.0055581764318,
+            "jaz": 0.000783052993938,
+            "pop": 0.00552952289581,
+            "rhy": 0.0010949333664,
+            "roc": 0.98106098175,
+            "spe": 0.000668859051075
+        },
+        "probability": 0.98106098175,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 349.152648926,
+        "lossless": 0,
+        "replay_gain": -13.7158927917,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2983da643f7bd5d7c79448e1943fb22a"
+    },
+    "tags": {
+        "file_name": "oasis-columbia.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

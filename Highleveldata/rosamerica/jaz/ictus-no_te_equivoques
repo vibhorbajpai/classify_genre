@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0263015478849,
+            "dan": 0.000189395243069,
+            "hip": 0.00116646336392,
+            "jaz": 0.900536596775,
+            "pop": 0.00290396274067,
+            "rhy": 0.0654101148248,
+            "roc": 0.000536382489372,
+            "spe": 0.00295551726595
+        },
+        "probability": 0.900536596775,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 292.623687744,
+        "lossless": 0,
+        "replay_gain": -3.41861724854,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9cdeb4dc5df19044737c9ad04a9183a7"
+    },
+    "tags": {
+        "file_name": "ictus-no_te_equivoques.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

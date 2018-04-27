@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00623737415299,
+            "dan": 0.0137646365911,
+            "hip": 0.0316227525473,
+            "jaz": 0.023352868855,
+            "pop": 0.660937309265,
+            "rhy": 0.156534969807,
+            "roc": 0.10366345942,
+            "spe": 0.00388665869832
+        },
+        "probability": 0.660937309265,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 273.240814209,
+        "lossless": 0,
+        "replay_gain": -8.88590431213,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "07dad90e8c14996871b0c4b76535cf0d"
+    },
+    "tags": {
+        "file_name": "jeff_buckley-last_goodbye.mp3",
+        "album": ["Vanilla sky"],
+        "artist": ["Various artists"],
+        "genre": ["Other"],
+        "title": ["Last goodbye"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

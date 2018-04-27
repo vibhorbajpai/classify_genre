@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00436443742365,
+            "dan": 0.924990773201,
+            "hip": 0.00150184857193,
+            "jaz": 0.0103683769703,
+            "pop": 0.0395834073424,
+            "rhy": 0.003918888513,
+            "roc": 0.0147113176063,
+            "spe": 0.000560923072044
+        },
+        "probability": 0.924990773201,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 234.344482422,
+        "lossless": 0,
+        "replay_gain": -10.9077682495,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "59b85b6694bc9d6df6db4a45a2f6a87a"
+    },
+    "tags": {
+        "file_name": "me_y_my-fly_high.mp3",
+        "album": ["cd1"],
+        "artist": ["Ibiza MIX 2001"],
+        "genre": ["Other"],
+        "title": ["Me & My - Fly high"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

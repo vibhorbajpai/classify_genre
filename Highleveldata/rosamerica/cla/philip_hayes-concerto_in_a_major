@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.995996296406,
+            "dan": 0.000704620382749,
+            "hip": 0.000387365464121,
+            "jaz": 0.0013091446599,
+            "pop": 0.000461585266748,
+            "rhy": 0.000568959629163,
+            "roc": 0.00024595373543,
+            "spe": 0.000326094886987
+        },
+        "probability": 0.995996296406,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128087,
+        "equal_loudness": 0,
+        "length": 226.168167114,
+        "lossless": 0,
+        "replay_gain": -7.32356262207,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "11eca5db3e7cc6ffbb32f4daa46c01d1"
+    },
+    "tags": {
+        "file_name": "philip_hayes-concerto_in_a_major.mp3",
+        "album": ["World's First Piano Concertos"],
+        "artist": ["Sonnerie"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/sonnerie"],
+        "composer": ["www.magnatune.com\/artists\/sonnerie"],
+        "copyright": ["2004 Sonnerie - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/sonnerie"],
+        "date": ["2003"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/sonnerie"],
+        "genre": ["Classical"],
+        "length": ["226000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/sonnerie"],
+        "title": ["Philip Hayes: Concerto in A ma"],
+        "tracknumber": ["14"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

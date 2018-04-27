@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000597516773269,
+            "dan": 0.0318555943668,
+            "hip": 0.0507609657943,
+            "jaz": 0.00637936173007,
+            "pop": 0.0239673089236,
+            "rhy": 0.885094225407,
+            "roc": 0.000766074226703,
+            "spe": 0.000578952953219
+        },
+        "probability": 0.885094225407,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 219.428573608,
+        "lossless": 0,
+        "replay_gain": -4.31198120117,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a855bcd970b27b9d8f9777d0791ad239"
+    },
+    "tags": {
+        "file_name": "tlc-no_scrubs.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

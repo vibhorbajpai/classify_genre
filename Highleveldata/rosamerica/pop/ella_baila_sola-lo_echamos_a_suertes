@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.010216598399,
+            "dan": 0.00715777324513,
+            "hip": 0.0176039990038,
+            "jaz": 0.0234899651259,
+            "pop": 0.754512071609,
+            "rhy": 0.111026905477,
+            "roc": 0.0740598663688,
+            "spe": 0.00193281890824
+        },
+        "probability": 0.754512071609,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 240.248168945,
+        "lossless": 0,
+        "replay_gain": -9.91049385071,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "80793671693eb6f55eca2093587fbc37"
+    },
+    "tags": {
+        "file_name": "ella_baila_sola-lo_echamos_a_suertes.mp3",
+        "album": ["Grandes Exitos"],
+        "artist": ["Ella baila sola"],
+        "genre": ["Other"],
+        "title": ["Lo Echamos A Suertes"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

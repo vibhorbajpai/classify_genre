@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00184075266588,
+            "dan": 0.0142075782642,
+            "hip": 0.00550559489056,
+            "jaz": 0.862193107605,
+            "pop": 0.0473196990788,
+            "rhy": 0.0604807883501,
+            "roc": 0.00615543266758,
+            "spe": 0.00229702889919
+        },
+        "probability": 0.862193107605,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 299.990203857,
+        "lossless": 0,
+        "replay_gain": -8.30497932434,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f900a3c2034af15cdb24b03d1a3bf339"
+    },
+    "tags": {
+        "file_name": "hacke_bjoerkstens_sextett-go_home_swanson.mp3",
+        "album": ["Svensk Jazzhistoria Vol 8 "],
+        "artist": ["Hacke Björkstens Sextett"],
+        "date": ["2002"],
+        "genre": ["Jazz"],
+        "title": ["Go Home Swanson "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

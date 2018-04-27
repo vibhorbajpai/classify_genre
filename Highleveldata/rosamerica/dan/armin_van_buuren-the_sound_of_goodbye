@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 2.32338720707e-06,
+            "dan": 0.996158063412,
+            "hip": 0.000927136512473,
+            "jaz": 1.54371227836e-05,
+            "pop": 0.000809110351838,
+            "rhy": 0.00182043563109,
+            "roc": 0.000260050641373,
+            "spe": 7.44690623833e-06
+        },
+        "probability": 0.996158063412,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 208.404891968,
+        "lossless": 0,
+        "replay_gain": -11.3163414001,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c551d5a78a4cb8ea6324fe13a9a6aa08"
+    },
+    "tags": {
+        "file_name": "armin_van_buuren-the_sound_of_goodbye.mp3",
+        "album": ["The original sessions. Vol V. Progressive"],
+        "artist": ["Vaios"],
+        "genre": ["Other"],
+        "title": [" The sound of goodbye"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

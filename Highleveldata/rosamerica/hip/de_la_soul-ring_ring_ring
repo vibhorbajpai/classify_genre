@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0045427987352,
+            "dan": 0.0211623460054,
+            "hip": 0.840682983398,
+            "jaz": 0.0200334712863,
+            "pop": 0.0273853186518,
+            "rhy": 0.0649459138513,
+            "roc": 0.00831087678671,
+            "spe": 0.0129362763837
+        },
+        "probability": 0.840682983398,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 365.061218262,
+        "lossless": 0,
+        "replay_gain": -4.36074829102,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7c299cabd8483cfb2624d62d54451a8c"
+    },
+    "tags": {
+        "file_name": "de_la_soul-ring_ring_ring.mp3",
+        "artist": ["De La Soul"],
+        "title": ["Ring Ring Ring"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

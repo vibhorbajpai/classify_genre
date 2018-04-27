@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00229378836229,
+            "dan": 0.974262773991,
+            "hip": 0.00405849004164,
+            "jaz": 0.00136597338133,
+            "pop": 0.00562408054247,
+            "rhy": 0.00137437717058,
+            "roc": 0.00856837630272,
+            "spe": 0.00245214742608
+        },
+        "probability": 0.974262773991,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 416.104492188,
+        "lossless": 0,
+        "replay_gain": -10.1406803131,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5348b2c9a30ae17cfc52936542760284"
+    },
+    "tags": {
+        "file_name": "bradski_y_jenskimmix-sunshine.mp3",
+        "album": ["Sunshine ( Single )"],
+        "artist": ["Dance Nation"],
+        "genre": ["Other"],
+        "title": ["Sunshine ( Bradski & JenskimMix )"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

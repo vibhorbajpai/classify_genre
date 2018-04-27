@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00671763252467,
+            "dan": 0.0139508135617,
+            "hip": 0.00859738793224,
+            "jaz": 0.00920972041786,
+            "pop": 0.692216694355,
+            "rhy": 0.179453894496,
+            "roc": 0.0863899365067,
+            "spe": 0.00346392951906
+        },
+        "probability": 0.692216694355,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 233.090606689,
+        "lossless": 0,
+        "replay_gain": -13.6332359314,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e5064012d0272c6ab86157a566e8b487"
+    },
+    "tags": {
+        "file_name": "anabell-senal_de_amor.mp3",
+        "album": ["Seguiré esperándote"],
+        "artist": ["Anabell"],
+        "genre": ["Latin"],
+        "title": ["Señal de amor..."]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

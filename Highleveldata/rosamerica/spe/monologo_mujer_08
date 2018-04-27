@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00869660638273,
+            "dan": 0.00677037565038,
+            "hip": 0.0223777014762,
+            "jaz": 0.0299500972033,
+            "pop": 0.0102033186704,
+            "rhy": 0.0211108718067,
+            "roc": 0.00577977113426,
+            "spe": 0.895111262798
+        },
+        "probability": 0.895111262798,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 1,
+        "equal_loudness": 0,
+        "length": 60.7608146667,
+        "lossless": 0,
+        "replay_gain": -5.75874710083,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c5ab8d931470cdd3fe3a426a43a81bab"
+    },
+    "tags": {
+        "file_name": "monologo_mujer_08.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

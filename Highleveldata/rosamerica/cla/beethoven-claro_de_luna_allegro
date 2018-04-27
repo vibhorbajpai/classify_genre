@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.960182130337,
+            "dan": 0.0010572639294,
+            "hip": 0.00276942225173,
+            "jaz": 0.0174929313362,
+            "pop": 0.00174039544072,
+            "rhy": 0.00537900114432,
+            "roc": 0.000700824719388,
+            "spe": 0.0106780445203
+        },
+        "probability": 0.960182130337,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 132.571426392,
+        "lossless": 0,
+        "replay_gain": 0.0114479064941,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a4c48abdce10e854b8954ea0ee705157"
+    },
+    "tags": {
+        "file_name": "beethoven-claro_de_luna_allegro.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

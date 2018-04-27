@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0044920835644,
+            "dan": 0.0466601364315,
+            "hip": 0.0101535813883,
+            "jaz": 0.0200722925365,
+            "pop": 0.790103316307,
+            "rhy": 0.0284627564251,
+            "roc": 0.0977944880724,
+            "spe": 0.00226136436686
+        },
+        "probability": 0.790103316307,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 246.360809326,
+        "lossless": 0,
+        "replay_gain": -9.53650665283,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "00f23b8391a1491b5ebb3f25a5533624"
+    },
+    "tags": {
+        "file_name": "a_ha-forever_not_yours.mp3",
+        "album": ["Lifelines"],
+        "artist": ["a-Ha"],
+        "genre": ["Other"],
+        "title": ["Forever Not Yours"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

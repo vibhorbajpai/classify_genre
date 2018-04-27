@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0532352887094,
+            "dan": 0.000473502324894,
+            "hip": 0.00125810108148,
+            "jaz": 0.896461606026,
+            "pop": 0.0122455907986,
+            "rhy": 0.0158014241606,
+            "roc": 0.0137243689969,
+            "spe": 0.00680009787902
+        },
+        "probability": 0.896461606026,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 285.570617676,
+        "lossless": 0,
+        "replay_gain": -10.315990448,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "0f80109ccadd108b609c7dd7eb71eed0"
+    },
+    "tags": {
+        "file_name": "salvador_perez-poly.mp3",
+        "album": ["Pianíssimo. ( La leyenda del J"],
+        "artist": ["Salvador Pérez, Emiliano Luis "],
+        "date": ["2000"],
+        "title": ["Poly"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

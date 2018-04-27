@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00173286977224,
+            "dan": 0.0051670926623,
+            "hip": 0.00106301310007,
+            "jaz": 0.00477659748867,
+            "pop": 0.808843910694,
+            "rhy": 0.0675774365664,
+            "roc": 0.109593652189,
+            "spe": 0.00124543660786
+        },
+        "probability": 0.808843910694,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 249.417144775,
+        "lossless": 0,
+        "replay_gain": -7.37684059143,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "101e9ce3adc9bb42e0fab7f234436ab8"
+    },
+    "tags": {
+        "file_name": "los_canos-una_vida_por_delante.mp3",
+        "album": ["Los Caños"],
+        "artist": ["Los Caños"],
+        "genre": ["Other"],
+        "title": ["Una vida por delante"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

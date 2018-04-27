@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00308424490504,
+            "dan": 0.0186904072762,
+            "hip": 0.0153746614233,
+            "jaz": 0.00346236862242,
+            "pop": 0.110595330596,
+            "rhy": 0.0237341858447,
+            "roc": 0.821639358997,
+            "spe": 0.00341943884268
+        },
+        "probability": 0.821639358997,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 239.098770142,
+        "lossless": 0,
+        "replay_gain": -7.66926956177,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c8b387c221df7b29757e6bb83237cecd"
+    },
+    "tags": {
+        "file_name": "seven_mary_three-cumbersome.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00112587551121,
+            "dan": 0.00086934218416,
+            "hip": 0.00151866301894,
+            "jaz": 0.951297879219,
+            "pop": 0.00358328525908,
+            "rhy": 0.0357282161713,
+            "roc": 0.00167446571868,
+            "spe": 0.00420226063579
+        },
+        "probability": 0.951297879219,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 160.653060913,
+        "lossless": 0,
+        "replay_gain": -8.96494674683,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f70dd24651544bde67752b90dcf86dff"
+    },
+    "tags": {
+        "file_name": "almstedt_lind_kvartetten-fascinating_rhythm.mp3",
+        "album": ["Svensk Jazzhistoria Vol 8 "],
+        "artist": ["Almstedt\/lind-Kvartetten"],
+        "date": ["2002"],
+        "genre": ["Jazz"],
+        "title": ["Fascinating Rhythm "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

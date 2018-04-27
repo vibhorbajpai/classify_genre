@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0111387427896,
+            "dan": 0.0158383026719,
+            "hip": 0.0417994260788,
+            "jaz": 0.0515349432826,
+            "pop": 0.169087722898,
+            "rhy": 0.701850354671,
+            "roc": 0.00555456243455,
+            "spe": 0.00319593609311
+        },
+        "probability": 0.701850354671,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 196.205718994,
+        "lossless": 0,
+        "replay_gain": -10.6556301117,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "dc8ea5def0c2d64ed140fbfd8899eee5"
+    },
+    "tags": {
+        "file_name": "alicia_keys-fallin.mp3",
+        "album": ["Kuschelrock 16                "],
+        "artist": ["alicia keys                   "],
+        "date": ["2002"],
+        "genre": ["Ballad"],
+        "title": ["fallin                        "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

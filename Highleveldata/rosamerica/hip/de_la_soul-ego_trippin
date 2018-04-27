@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0004564342089,
+            "dan": 0.0353622473776,
+            "hip": 0.929649949074,
+            "jaz": 0.00171718909405,
+            "pop": 0.00257021631114,
+            "rhy": 0.0259998254478,
+            "roc": 0.00155765144154,
+            "spe": 0.00268647656776
+        },
+        "probability": 0.929649949074,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 231.706115723,
+        "lossless": 0,
+        "replay_gain": -6.65711402893,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "71b6b257c7091c9e3ab843dc7be9a487"
+    },
+    "tags": {
+        "file_name": "de_la_soul-ego_trippin.mp3",
+        "artist": ["De La Soul"],
+        "genre": ["Other"],
+        "title": ["Ego Trippin'"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

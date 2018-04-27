@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00022406190692,
+            "dan": 0.0349969863892,
+            "hip": 0.942445397377,
+            "jaz": 0.00266596116126,
+            "pop": 0.00236354209483,
+            "rhy": 0.00912055745721,
+            "roc": 0.00223053107038,
+            "spe": 0.00595293845981
+        },
+        "probability": 0.942445397377,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 250.096328735,
+        "lossless": 0,
+        "replay_gain": -6.80463790894,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "77126cbc5fa5e9c771f74f582244c8cb"
+    },
+    "tags": {
+        "file_name": "a_tribe_called_quest-scenario.mp3",
+        "album": ["The Low End Theory            "],
+        "artist": ["A Tribe Called Quest          "],
+        "genre": ["Rap"],
+        "title": ["Scenario                      "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

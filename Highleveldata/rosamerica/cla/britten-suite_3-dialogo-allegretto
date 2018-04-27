@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.922282218933,
+            "dan": 0.00177439872641,
+            "hip": 0.00793927628547,
+            "jaz": 0.0399030335248,
+            "pop": 0.00210587144829,
+            "rhy": 0.0111359236762,
+            "roc": 0.00152941152919,
+            "spe": 0.0133298374712
+        },
+        "probability": 0.922282218933,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 103.497123718,
+        "lossless": 0,
+        "replay_gain": 0.0854415893555,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1f6522011e21da5d1a8744e7bcb7752d"
+    },
+    "tags": {
+        "file_name": "britten-suite_3-dialogo-allegretto.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.854878902435,
+            "dan": 0.00668077170849,
+            "hip": 0.0106853907928,
+            "jaz": 0.0447560995817,
+            "pop": 0.0321938507259,
+            "rhy": 0.0261753145605,
+            "roc": 0.0131045309827,
+            "spe": 0.0115251494572
+        },
+        "probability": 0.854878902435,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 160000,
+        "equal_loudness": 0,
+        "length": 221.675094604,
+        "lossless": 0,
+        "replay_gain": -5.6551399231,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "23ecf472e23309102b49238392c9785a"
+    },
+    "tags": {
+        "file_name": "bach-sonata_for_violin_and_harps_allegro.mp3",
+        "album": ["Bach - Sonata for Violin and C"],
+        "artist": ["Fabio Biondi, Rinaldo Alessand"],
+        "date": ["1996"],
+        "genre": ["Classical"],
+        "title": ["Bach - Sonata for Violin and H"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

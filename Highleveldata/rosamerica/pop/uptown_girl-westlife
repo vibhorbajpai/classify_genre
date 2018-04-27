@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00125928223133,
+            "dan": 0.0251846313477,
+            "hip": 0.00815580319613,
+            "jaz": 0.003058077069,
+            "pop": 0.838439524174,
+            "rhy": 0.0160657018423,
+            "roc": 0.107239350677,
+            "spe": 0.000597602571361
+        },
+        "probability": 0.838439524174,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 186.98449707,
+        "lossless": 0,
+        "replay_gain": -10.1085968018,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "09a6bba83d98f3700e22dae2d543874b"
+    },
+    "tags": {
+        "file_name": "uptown_girl-westlife.mp3",
+        "album": ["Musica Si 2-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["uptown girl-westlife"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

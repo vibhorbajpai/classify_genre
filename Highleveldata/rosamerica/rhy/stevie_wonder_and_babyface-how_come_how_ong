@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00324969226494,
+            "dan": 0.081523321569,
+            "hip": 0.0378783233464,
+            "jaz": 0.00396045669913,
+            "pop": 0.0760415568948,
+            "rhy": 0.725560486317,
+            "roc": 0.0688492953777,
+            "spe": 0.00293685402721
+        },
+        "probability": 0.725560486317,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 226.298782349,
+        "lossless": 0,
+        "replay_gain": -5.48445701599,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "4db5c45e8b5bdb09764cdaaa63d2a2bf"
+    },
+    "tags": {
+        "file_name": "stevie_wonder_and_babyface-how_come_how_ong.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

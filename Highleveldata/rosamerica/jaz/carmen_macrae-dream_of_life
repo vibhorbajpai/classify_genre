@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000706733728293,
+            "dan": 0.0001625779405,
+            "hip": 0.00120643351693,
+            "jaz": 0.923710823059,
+            "pop": 0.00249043107033,
+            "rhy": 0.0709864646196,
+            "roc": 0.00033563337638,
+            "spe": 0.000400885153795
+        },
+        "probability": 0.923710823059,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 240.71836853,
+        "lossless": 0,
+        "replay_gain": -6.12252998352,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e77228eb37bdc0a7500d4d0234900e5b"
+    },
+    "tags": {
+        "file_name": "carmen_macrae-dream_of_life.mp3",
+        "album": ["Women - The Best Jazz Vocals (Disc 2)"],
+        "artist": ["Vários"],
+        "genre": ["Other"],
+        "title": ["Dream Of Life"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

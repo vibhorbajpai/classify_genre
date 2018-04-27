@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00103241682518,
+            "dan": 0.00273876450956,
+            "hip": 0.000609872105997,
+            "jaz": 0.000335820339387,
+            "pop": 0.0060266321525,
+            "rhy": 0.00380260241218,
+            "roc": 0.985198557377,
+            "spe": 0.000255305902101
+        },
+        "probability": 0.985198557377,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 322.951843262,
+        "lossless": 0,
+        "replay_gain": -10.6345462799,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "43ede39933d2ca487a30a03d2b739641"
+    },
+    "tags": {
+        "file_name": "los_planetas.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

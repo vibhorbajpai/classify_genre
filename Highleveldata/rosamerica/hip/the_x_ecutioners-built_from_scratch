@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0111750289798,
+            "dan": 0.00775688374415,
+            "hip": 0.830480575562,
+            "jaz": 0.0381065160036,
+            "pop": 0.0153687503189,
+            "rhy": 0.0603206008673,
+            "roc": 0.00699340272695,
+            "spe": 0.0297982413322
+        },
+        "probability": 0.830480575562,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 169.822036743,
+        "lossless": 0,
+        "replay_gain": -10.3510684967,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d17d9b715d6478a0f8455702279c157d"
+    },
+    "tags": {
+        "file_name": "the_x_ecutioners-built_from_scratch.mp3",
+        "album": ["Built From Scratch-RETAIL"],
+        "artist": ["Xecutioners"],
+        "date": ["2002"],
+        "genre": ["Hip-Hop"],
+        "title": ["Hip Hop Awards (skit)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00816809386015,
+            "dan": 0.00492152106017,
+            "hip": 0.060398183763,
+            "jaz": 0.0403759665787,
+            "pop": 0.0745499804616,
+            "rhy": 0.792713046074,
+            "roc": 0.0105615602806,
+            "spe": 0.0083116190508
+        },
+        "probability": 0.792713046074,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 139.546127319,
+        "lossless": 0,
+        "replay_gain": -6.19129180908,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "a2d242881e5099a27061ceab4dd4abdc"
+    },
+    "tags": {
+        "file_name": "brenton_good-gimme_little_sign.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

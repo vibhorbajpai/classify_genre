@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0487150214612,
+            "dan": 0.000307682756102,
+            "hip": 0.00167534151115,
+            "jaz": 0.888428926468,
+            "pop": 0.00309298164211,
+            "rhy": 0.0460648238659,
+            "roc": 0.00183757254854,
+            "spe": 0.00987765006721
+        },
+        "probability": 0.888428926468,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 171.128158569,
+        "lossless": 0,
+        "replay_gain": -6.01504325867,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "5ebf44aa625d191b449c385989e27198"
+    },
+    "tags": {
+        "file_name": "benny_godman-shoe_shining_boy.mp3",
+        "album": ["i will never be the same"],
+        "artist": ["Benny Goodman"],
+        "date": ["2001"],
+        "genre": ["Swing"],
+        "title": ["Shoe Shining Boy"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

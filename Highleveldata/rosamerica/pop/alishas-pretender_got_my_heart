@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00244107027538,
+            "dan": 0.0130428886041,
+            "hip": 0.00863935891539,
+            "jaz": 0.00374751328491,
+            "pop": 0.833968758583,
+            "rhy": 0.112506657839,
+            "roc": 0.0239328090101,
+            "spe": 0.0017209413927
+        },
+        "probability": 0.833968758583,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 246.961639404,
+        "lossless": 0,
+        "replay_gain": -7.73944473267,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "46e4b46f45e4567fc3c6ae12f1a63bb8"
+    },
+    "tags": {
+        "file_name": "alishas-pretender_got_my_heart.mp3",
+        "album": ["Bridget Jones's Diary"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Pretender Got My Heart"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

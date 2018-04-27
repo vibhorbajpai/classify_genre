@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0107915140688,
+            "dan": 0.00720255449414,
+            "hip": 0.0120677947998,
+            "jaz": 0.0111371641979,
+            "pop": 0.739984452724,
+            "rhy": 0.209758251905,
+            "roc": 0.00465894676745,
+            "spe": 0.00439930427819
+        },
+        "probability": 0.739984452724,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 193.619598389,
+        "lossless": 0,
+        "replay_gain": -8.33973312378,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "6fc8ba945150dfb9eb8247d1050363b6"
+    },
+    "tags": {
+        "file_name": "lydia-no_existen_limites.mp3",
+        "genre": ["Blues"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

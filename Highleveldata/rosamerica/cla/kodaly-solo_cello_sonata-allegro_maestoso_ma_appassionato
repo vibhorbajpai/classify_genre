@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.94711202383,
+            "dan": 0.00197334168479,
+            "hip": 0.0091769322753,
+            "jaz": 0.016528852284,
+            "pop": 0.00171192549169,
+            "rhy": 0.00636210897937,
+            "roc": 0.000984401907772,
+            "spe": 0.0161504335701
+        },
+        "probability": 0.94711202383,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 64000,
+        "equal_loudness": 0,
+        "length": 483.317565918,
+        "lossless": 0,
+        "replay_gain": -4.24410438538,
+        "sample_rate": 22050,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d9df7e94557fcc3641f38d8117dd442a"
+    },
+    "tags": {
+        "file_name": "kodaly-solo_cello_sonata-allegro_maestoso_ma_appassionato.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

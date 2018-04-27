@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 7.08091590695e-07,
+            "dan": 0.998529434204,
+            "hip": 7.66750308685e-05,
+            "jaz": 6.61858503008e-05,
+            "pop": 0.000180098897545,
+            "rhy": 0.000130843342049,
+            "roc": 0.000923137180507,
+            "spe": 9.29234956857e-05
+        },
+        "probability": 0.998529434204,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 215.248977661,
+        "lossless": 0,
+        "replay_gain": -6.67575645447,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f34b84dcf6fc1726db7f75c9986596e8"
+    },
+    "tags": {
+        "file_name": "barthezz-on_the_move.mp3",
+        "album": ["DISCO ALEGRIA 2001-3"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["On the move"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00361061561853,
+            "dan": 0.0105811497197,
+            "hip": 0.0201396811754,
+            "jaz": 0.0175536386669,
+            "pop": 0.119970068336,
+            "rhy": 0.793545007706,
+            "roc": 0.0166495405138,
+            "spe": 0.017950290814
+        },
+        "probability": 0.793545007706,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 126.902854919,
+        "lossless": 0,
+        "replay_gain": -6.06970024109,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d9738e42f81a8122b332589cc6e2cf10"
+    },
+    "tags": {
+        "file_name": "sam_cooke-don_t_know_much_about_history.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

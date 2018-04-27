@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00536092277616,
+            "dan": 0.84455126524,
+            "hip": 0.0251465961337,
+            "jaz": 0.0135153662413,
+            "pop": 0.0462221242487,
+            "rhy": 0.0292379204184,
+            "roc": 0.0297789759934,
+            "spe": 0.00618683733046
+        },
+        "probability": 0.84455126524,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 261.01550293,
+        "lossless": 0,
+        "replay_gain": -9.58549118042,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "fa1e981062bba5db552315a5251e6ef9"
+    },
+    "tags": {
+        "file_name": "ago-put_on_your_red_shoes.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

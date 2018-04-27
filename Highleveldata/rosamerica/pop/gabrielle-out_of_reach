@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00258673913777,
+            "dan": 0.00967336446047,
+            "hip": 0.00731163052842,
+            "jaz": 0.00538655044511,
+            "pop": 0.709102869034,
+            "rhy": 0.203269466758,
+            "roc": 0.0599640868604,
+            "spe": 0.0027052781079
+        },
+        "probability": 0.709102869034,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 196.623672485,
+        "lossless": 0,
+        "replay_gain": -11.67578125,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "031eb1f04fc51d15f21f0a76898c2031"
+    },
+    "tags": {
+        "file_name": "gabrielle-out_of_reach.mp3",
+        "album": ["Bridget Jones's Diary"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["Out Of Reach"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

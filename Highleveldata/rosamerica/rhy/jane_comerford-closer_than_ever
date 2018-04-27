@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000455051631434,
+            "dan": 0.00257278769277,
+            "hip": 0.00328826648183,
+            "jaz": 0.00118394545279,
+            "pop": 0.210094377398,
+            "rhy": 0.78138846159,
+            "roc": 0.000921633036342,
+            "spe": 9.55009600148e-05
+        },
+        "probability": 0.78138846159,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 233.508575439,
+        "lossless": 0,
+        "replay_gain": -9.19771957397,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "3a198f4c240707c2b3db8ccbea328072"
+    },
+    "tags": {
+        "file_name": "jane_comerford-closer_than_ever.mp3",
+        "album": ["Sexy Soul - CD1"],
+        "artist": ["Jane Comerford"],
+        "date": ["2002"],
+        "genre": ["Soul"],
+        "title": ["Closer Than Ever"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

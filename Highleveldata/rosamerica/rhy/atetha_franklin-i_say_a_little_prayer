@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0138561064377,
+            "dan": 0.00530256936327,
+            "hip": 0.0104190120474,
+            "jaz": 0.0560667328537,
+            "pop": 0.187351331115,
+            "rhy": 0.693165183067,
+            "roc": 0.0307195074856,
+            "spe": 0.00311955343932
+        },
+        "probability": 0.693165183067,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 216.894699097,
+        "lossless": 0,
+        "replay_gain": -5.1753616333,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "669220fa0289a2cf1b947bbd8f2a95e6"
+    },
+    "tags": {
+        "file_name": "atetha_franklin-i_say_a_little_prayer.mp3",
+        "album": ["Aretha Now"],
+        "artist": ["Aretha Franklin"],
+        "date": ["1968"],
+        "genre": ["Other"],
+        "title": ["I Say A Little Prayer"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

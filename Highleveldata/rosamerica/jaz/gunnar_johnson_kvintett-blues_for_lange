@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00406425772235,
+            "dan": 0.00358099513687,
+            "hip": 0.00628395238891,
+            "jaz": 0.91591334343,
+            "pop": 0.02613398619,
+            "rhy": 0.0283361263573,
+            "roc": 0.0107154976577,
+            "spe": 0.0049718269147
+        },
+        "probability": 0.91591334343,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 132.519180298,
+        "lossless": 0,
+        "replay_gain": -8.18877410889,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "57835129cb2d0040b4f2e0025582709a"
+    },
+    "tags": {
+        "file_name": "gunnar_johnson_kvintett-blues_for_lange.mp3",
+        "album": ["Svensk Jazzhistoria Vol 8 "],
+        "artist": ["Gunnar Johnson Kvintett"],
+        "date": ["2002"],
+        "genre": ["Jazz"],
+        "title": ["Blues for Lange "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

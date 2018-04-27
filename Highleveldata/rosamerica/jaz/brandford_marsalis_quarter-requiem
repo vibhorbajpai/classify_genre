@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.052970636636,
+            "dan": 0.00089981633937,
+            "hip": 0.00280315754935,
+            "jaz": 0.905133247375,
+            "pop": 0.00580151192844,
+            "rhy": 0.0216981824487,
+            "roc": 0.00200293632224,
+            "spe": 0.00869049318135
+        },
+        "probability": 0.905133247375,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 619.180419922,
+        "lossless": 0,
+        "replay_gain": -6.17316055298,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7be2b0d52137240c9b3bcbdfc527c789"
+    },
+    "tags": {
+        "file_name": "brandford_marsalis_quarter-requiem.mp3",
+        "album": ["Contemporary Jazz             "],
+        "artist": ["Brandford Marsalis Quartet    "],
+        "date": ["2000"],
+        "genre": ["Jazz"],
+        "title": ["Requiem                       "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

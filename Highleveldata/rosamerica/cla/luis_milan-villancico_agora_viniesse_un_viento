@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.915860116482,
+            "dan": 0.00274286000058,
+            "hip": 0.00495603121817,
+            "jaz": 0.0397586598992,
+            "pop": 0.0123230675235,
+            "rhy": 0.011549343355,
+            "roc": 0.00123788032215,
+            "spe": 0.0115720545873
+        },
+        "probability": 0.915860116482,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128058,
+        "equal_loudness": 0,
+        "length": 75.1020431519,
+        "lossless": 0,
+        "replay_gain": -8.7957611084,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1d3180c04576b4df7cb6c1f57b06fce8"
+    },
+    "tags": {
+        "file_name": "luis_milan-villancico_agora_viniesse_un_viento.mp3",
+        "album": ["Luis Milan: El Maestro"],
+        "artist": ["Jacob Heringman and Catherine"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/heringman_king"],
+        "composer": ["www.magnatune.com\/artists\/heringman_king"],
+        "copyright": ["2004 Jacob Heringman and Catherine King - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/heringman_king"],
+        "date": ["1998"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/heringman_king"],
+        "genre": ["Classical"],
+        "length": ["75000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/heringman_king"],
+        "title": ["Villancico: agora viniesse un"],
+        "tracknumber": ["7"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

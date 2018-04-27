@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00331584038213,
+            "dan": 0.00563310459256,
+            "hip": 0.00172395561822,
+            "jaz": 0.00376696814783,
+            "pop": 0.0637659430504,
+            "rhy": 0.00726458150893,
+            "roc": 0.91196000576,
+            "spe": 0.00256957532838
+        },
+        "probability": 0.91196000576,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 236.042449951,
+        "lossless": 0,
+        "replay_gain": -8.13064002991,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "db73a7a2d895ef90c15f6061728a1c82"
+    },
+    "tags": {
+        "file_name": "the_wallflowers-we_can_be_heros.mp3",
+        "album": ["                              "],
+        "artist": ["Wallflowers                   "],
+        "date": ["    "],
+        "genre": ["Blues"],
+        "title": ["We Can Be Heros               "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

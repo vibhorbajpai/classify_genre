@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0299586672336,
+            "dan": 0.00621668621898,
+            "hip": 0.027269506827,
+            "jaz": 0.023651888594,
+            "pop": 0.0115227401257,
+            "rhy": 0.0234901942313,
+            "roc": 0.00741192419082,
+            "spe": 0.870478391647
+        },
+        "probability": 0.870478391647,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 60.1338768005,
+        "lossless": 0,
+        "replay_gain": -6.83435440063,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "7da1677ca4d16ec048dc65c431774c0b"
+    },
+    "tags": {
+        "file_name": "speech_12_ondacero.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

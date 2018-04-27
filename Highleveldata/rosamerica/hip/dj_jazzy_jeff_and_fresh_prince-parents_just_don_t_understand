@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000303598033497,
+            "dan": 0.00158924050629,
+            "hip": 0.974506616592,
+            "jaz": 0.0014878383372,
+            "pop": 0.00178271811455,
+            "rhy": 0.0193903278559,
+            "roc": 0.000821169989649,
+            "spe": 0.000118509669846
+        },
+        "probability": 0.974506616592,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 335.725708008,
+        "lossless": 0,
+        "replay_gain": -6.26261901855,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "06d709636cc7884b8d2b34e7d727b83d"
+    },
+    "tags": {
+        "file_name": "dj_jazzy_jeff_and_fresh_prince-parents_just_don_t_understand.mp3",
+        "album": ["Yo! MTV Raps"],
+        "artist": ["DJ Jazzy Jeff,The Fresh Prince"],
+        "date": ["1989"],
+        "genre": ["Rap"],
+        "title": ["Parents Just Don't Understand"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

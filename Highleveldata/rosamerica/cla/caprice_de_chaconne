@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.917602539062,
+            "dan": 0.00311343953945,
+            "hip": 0.00736034568399,
+            "jaz": 0.0387138910592,
+            "pop": 0.00653342436999,
+            "rhy": 0.0157371237874,
+            "roc": 0.00149397319183,
+            "spe": 0.00944527145475
+        },
+        "probability": 0.917602539062,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128133,
+        "equal_loudness": 0,
+        "length": 147.800811768,
+        "lossless": 0,
+        "replay_gain": -8.24380874634,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8152a45987c8cec43975c7fd5c38354e"
+    },
+    "tags": {
+        "file_name": "caprice_de_chaconne.mp3",
+        "album": ["Canarios"],
+        "artist": ["James Edwards"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/james_edwards"],
+        "composer": ["www.magnatune.com\/artists\/james_edwards"],
+        "copyright": ["2004 James Edwards - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/james_edwards"],
+        "date": ["2002"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/james_edwards"],
+        "genre": ["Classical"],
+        "length": ["148000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/james_edwards"],
+        "title": ["Caprice de chaconne"],
+        "tracknumber": ["8"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

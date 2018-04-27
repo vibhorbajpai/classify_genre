@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.882966756821,
+            "dan": 0.00466876849532,
+            "hip": 0.0104622319341,
+            "jaz": 0.0419993437827,
+            "pop": 0.0141367707402,
+            "rhy": 0.0307064764202,
+            "roc": 0.00428386684507,
+            "spe": 0.0107757635415
+        },
+        "probability": 0.882966756821,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 182935,
+        "equal_loudness": 0,
+        "length": 274.625305176,
+        "lossless": 0,
+        "replay_gain": -1.05039215088,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f0b3a8dd1d873c86ae1559027a4f7ea8"
+    },
+    "tags": {
+        "file_name": "elgar-cello_concerto_in_e_minor.mp3",
+        "album": ["Favorite Cello Concertos"],
+        "artist": ["Jacqueline DuPre"],
+        "title": ["Elgar Cello Concerto in E Mi.."]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

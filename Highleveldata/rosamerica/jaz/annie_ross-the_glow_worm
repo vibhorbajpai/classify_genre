@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00482597202063,
+            "dan": 0.000604990927968,
+            "hip": 0.00238139554858,
+            "jaz": 0.908692657948,
+            "pop": 0.00424601044506,
+            "rhy": 0.0692769214511,
+            "roc": 0.00203122431412,
+            "spe": 0.00794082134962
+        },
+        "probability": 0.908692657948,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 200.698776245,
+        "lossless": 0,
+        "replay_gain": -3.0296421051,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "107506f38c69b4f329eedc9300683fad"
+    },
+    "tags": {
+        "file_name": "annie_ross-the_glow_worm.mp3",
+        "album": ["Cool for Kids                 "],
+        "artist": ["Annie Ross                    "],
+        "date": ["2001"],
+        "genre": ["Jazz"],
+        "title": ["The Glow Worm                 "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

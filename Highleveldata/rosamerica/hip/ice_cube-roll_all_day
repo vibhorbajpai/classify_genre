@@ -1,0 +1,56 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000197451474378,
+            "dan": 0.00316724414006,
+            "hip": 0.983647525311,
+            "jaz": 0.000558939645998,
+            "pop": 0.000421630509663,
+            "rhy": 0.0118224686012,
+            "roc": 0.000106105355371,
+            "spe": 7.86341770436e-05
+        },
+        "probability": 0.983647525311,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 181.263671875,
+        "lossless": 0,
+        "replay_gain": -10.7609405518,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "589f064ad1c95791f720d6f3bec18120"
+    },
+    "tags": {
+        "file_name": "ice_cube-roll_all_day.mp3",
+        "album": ["Soundtrack to Gone In 60 Seconds"],
+        "artist": ["Gone In 60 Seconds"],
+        "genre": ["genre"],
+        "length": ["181106"],
+        "media": ["DIG"],
+        "title": ["Ice Cube - Roll All Day"],
+        "tracknumber": ["7"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

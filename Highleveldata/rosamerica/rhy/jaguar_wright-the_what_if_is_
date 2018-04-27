@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.017894687131,
+            "dan": 0.00526522099972,
+            "hip": 0.060017246753,
+            "jaz": 0.0354295298457,
+            "pop": 0.106811843812,
+            "rhy": 0.770376443863,
+            "roc": 0.00252032396384,
+            "spe": 0.00168470852077
+        },
+        "probability": 0.770376443863,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 259.056335449,
+        "lossless": 0,
+        "replay_gain": -9.52208137512,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d2fbb87d8ff188e53185bdfc20fa1594"
+    },
+    "tags": {
+        "file_name": "jaguar_wright-the_what_if_is_.mp3",
+        "artist": ["Jaguar Wright "],
+        "genre": ["Other"],
+        "title": ["The What If´s."]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

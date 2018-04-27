@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00405410118401,
+            "dan": 0.0144258849323,
+            "hip": 0.0637053772807,
+            "jaz": 0.0743690282106,
+            "pop": 0.152587324381,
+            "rhy": 0.681569755077,
+            "roc": 0.00411012768745,
+            "spe": 0.00517836911604
+        },
+        "probability": 0.681569755077,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 312.424499512,
+        "lossless": 0,
+        "replay_gain": -11.3498916626,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "960b678c4cddc45e9ab4bf111b1d38f1"
+    },
+    "tags": {
+        "file_name": "pamkenyon_m._donaldanoint_myself.mp3",
+        "album": ["Lo mejor del Gospel. (Cd. 1)"],
+        "artist": ["Various Artists"],
+        "genre": ["Gospel"],
+        "title": ["I anoint myself"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

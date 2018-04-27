@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00145844637882,
+            "dan": 0.02068227157,
+            "hip": 0.0115404985845,
+            "jaz": 0.844543159008,
+            "pop": 0.0475623011589,
+            "rhy": 0.0557650960982,
+            "roc": 0.0130065837875,
+            "spe": 0.00544166285545
+        },
+        "probability": 0.844543159008,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 196.963272095,
+        "lossless": 0,
+        "replay_gain": -3.97816848755,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "f44b4712ddd7fa5d09f9091ae74eb2ca"
+    },
+    "tags": {
+        "file_name": "john_coltrane-up_gainst_the_wall_crsmp3.mp3",
+        "album": ["Impressions                   "],
+        "artist": ["John Coltrane                 "],
+        "date": ["2000"],
+        "genre": ["Jazz"],
+        "title": ["Up 'Gainst the Wall           "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

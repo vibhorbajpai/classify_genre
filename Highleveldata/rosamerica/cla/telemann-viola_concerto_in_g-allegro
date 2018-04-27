@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.851883947849,
+            "dan": 0.00817165710032,
+            "hip": 0.00679549109191,
+            "jaz": 0.0322111323476,
+            "pop": 0.0300760287791,
+            "rhy": 0.026498394087,
+            "roc": 0.0305667482316,
+            "spe": 0.0137966014445
+        },
+        "probability": 0.851883947849,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 96000,
+        "equal_loudness": 0,
+        "length": 169.665313721,
+        "lossless": 0,
+        "replay_gain": -7.96736335754,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "2d69125a05211cd6844687f5bdee9f02"
+    },
+    "tags": {
+        "file_name": "telemann-viola_concerto_in_g-allegro.mp3",
+        "album": ["02 "],
+        "artist": ["Telemann "],
+        "encodedby": ["Ripped with Streamripper"],
+        "title": ["Viola Concerto In G - Allegro"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

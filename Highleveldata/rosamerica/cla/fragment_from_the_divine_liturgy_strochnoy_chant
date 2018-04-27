@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.950770199299,
+            "dan": 0.00200052326545,
+            "hip": 0.0032729296945,
+            "jaz": 0.00915479287505,
+            "pop": 0.00989491399378,
+            "rhy": 0.00828534830362,
+            "roc": 0.00348067702726,
+            "spe": 0.0131406113505
+        },
+        "probability": 0.950770199299,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128095,
+        "equal_loudness": 0,
+        "length": 207.151016235,
+        "lossless": 0,
+        "replay_gain": -9.19567489624,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "931796a99e011e5ef47abef9bd7f4071"
+    },
+    "tags": {
+        "file_name": "fragment_from_the_divine_liturgy_strochnoy_chant.mp3",
+        "album": ["Ancient Church Singing of Byza"],
+        "artist": ["Ensemble Sreteniye"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/ensemble_sreteniye"],
+        "composer": ["www.magnatune.com\/artists\/ensemble_sreteniye"],
+        "copyright": ["2004 Ensemble Sreteniye - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/ensemble_sreteniye"],
+        "date": ["1999"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/ensemble_sreteniye"],
+        "genre": ["Classical"],
+        "length": ["207000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/ensemble_sreteniye"],
+        "title": ["Fragment from the Divine Litur"],
+        "tracknumber": ["8"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00801948364824,
+            "dan": 0.00166108948179,
+            "hip": 0.00994909647852,
+            "jaz": 0.907430768013,
+            "pop": 0.00929606333375,
+            "rhy": 0.0576047822833,
+            "roc": 0.00172356120311,
+            "spe": 0.00431514065713
+        },
+        "probability": 0.907430768013,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 342.961639404,
+        "lossless": 0,
+        "replay_gain": -5.57974624634,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1292004c78c811eaf931f7ce4260bcc2"
+    },
+    "tags": {
+        "file_name": "antoine_herve-my_foolish_heart_just.mp3",
+        "album": ["Summertime "],
+        "artist": ["Antoine Hervé"],
+        "date": ["2002"],
+        "genre": ["Jazz"],
+        "title": ["my foolish heart (victor young"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

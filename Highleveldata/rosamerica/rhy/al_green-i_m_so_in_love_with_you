@@ -1,0 +1,52 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0140039892867,
+            "dan": 0.00425134645775,
+            "hip": 0.0175629407167,
+            "jaz": 0.0858420655131,
+            "pop": 0.106150873005,
+            "rhy": 0.748940587044,
+            "roc": 0.00863132905215,
+            "spe": 0.014616837725
+        },
+        "probability": 0.748940587044,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 201.064483643,
+        "lossless": 0,
+        "replay_gain": -5.50452423096,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "212ae64bd301da810f1d78927ac2f8bc"
+    },
+    "tags": {
+        "file_name": "al_green-i_m_so_in_love_with_you.mp3",
+        "artist": ["Al Green"],
+        "genre": ["Blues"],
+        "title": ["I'm So in love with you"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.923087000847,
+            "dan": 0.00109670707025,
+            "hip": 0.00200421293266,
+            "jaz": 0.0402762927115,
+            "pop": 0.00535998027772,
+            "rhy": 0.0152236288413,
+            "roc": 0.00144622614607,
+            "spe": 0.0115059660748
+        },
+        "probability": 0.923087000847,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192012,
+        "equal_loudness": 0,
+        "length": 417.410614014,
+        "lossless": 0,
+        "replay_gain": -9.27248954773,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "672fc18b00c2be1fa04f58c3867ae9f5"
+    },
+    "tags": {
+        "file_name": "franck-cello_sonata_in_a_major-allegretto_poco_mosso.mp3",
+        "album": ["Chopin Cello Sonata in G-minor and Cesar Franck Cello Sonata in or and Cesar Franck Cello Sonata in A"],
+        "artist": ["Barenboim, du Pre"],
+        "length": ["417360"],
+        "title": ["4. Allegretto poco mosso"],
+        "tracknumber": ["8"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

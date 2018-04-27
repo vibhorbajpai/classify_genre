@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0355914719403,
+            "dan": 0.00460937805474,
+            "hip": 0.904559373856,
+            "jaz": 0.0267908070236,
+            "pop": 0.00359090976417,
+            "rhy": 0.00793038588017,
+            "roc": 0.00732714915648,
+            "spe": 0.00960055086762
+        },
+        "probability": 0.904559373856,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 191.660415649,
+        "lossless": 0,
+        "replay_gain": -10.3971176147,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "0a9b03f5bde9a64a78c649ad45d89842"
+    },
+    "tags": {
+        "file_name": "run_dmc-sucker_mcs-legacymp3.mp3",
+        "album": ["Greatest Hits "],
+        "artist": ["Run Dmc"],
+        "date": ["2003"],
+        "genre": ["Hip-Hop"],
+        "title": ["Sucker Mc's"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

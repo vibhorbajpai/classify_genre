@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00358735607006,
+            "dan": 0.00873431842774,
+            "hip": 0.00606520893052,
+            "jaz": 0.863034188747,
+            "pop": 0.0249080583453,
+            "rhy": 0.074473567307,
+            "roc": 0.0173136498779,
+            "spe": 0.00188366055954
+        },
+        "probability": 0.863034188747,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 334.785308838,
+        "lossless": 0,
+        "replay_gain": -4.94576454163,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ac3c696015c9feafc0a3222b373d4ec5"
+    },
+    "tags": {
+        "file_name": "eric_le_lann-unkown_tower_just.mp3",
+        "album": ["Acoustic Quartet"],
+        "artist": ["Eric le Lann"],
+        "date": ["1995"],
+        "genre": ["Other"],
+        "title": ["unkown tower"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

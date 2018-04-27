@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.017905421555,
+            "dan": 0.00257310923189,
+            "hip": 0.00558439595625,
+            "jaz": 0.0628440827131,
+            "pop": 0.188072681427,
+            "rhy": 0.717714905739,
+            "roc": 0.00105940259527,
+            "spe": 0.00424602907151
+        },
+        "probability": 0.717714905739,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 248.18939209,
+        "lossless": 0,
+        "replay_gain": -7.43018913269,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "c556da90201fb391d746dc42ce501ab0"
+    },
+    "tags": {
+        "file_name": "destiny_child-my_heart_still_beats_featuring_beyonce.mp3",
+        "album": ["Survivor"],
+        "artist": ["Destiny's Child"],
+        "genre": ["Other"],
+        "title": ["My Heart Still Beats (featuring Beyonce)"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0128547409549,
+            "dan": 0.0151781467721,
+            "hip": 0.0164969209582,
+            "jaz": 0.83103531599,
+            "pop": 0.0281625781208,
+            "rhy": 0.074317522347,
+            "roc": 0.0156699717045,
+            "spe": 0.00628478685394
+        },
+        "probability": 0.83103531599,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 374.230194092,
+        "lossless": 0,
+        "replay_gain": -6.4680480957,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "534c3650c6811c829adb8735ba967200"
+    },
+    "tags": {
+        "file_name": "cedar_walton-theme_from_love_story-jah.mp3",
+        "album": ["Jazz For Romantic Moments RETA"],
+        "artist": ["Cedar Walton                  "],
+        "date": ["2003"],
+        "genre": ["Jazz"],
+        "title": ["Theme From Love Story         "]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

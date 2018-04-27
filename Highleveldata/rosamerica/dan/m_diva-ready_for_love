@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000409398635384,
+            "dan": 0.938598871231,
+            "hip": 0.00424182694405,
+            "jaz": 0.000527637137566,
+            "pop": 0.040102083236,
+            "rhy": 0.00346730952151,
+            "roc": 0.0121788941324,
+            "spe": 0.000473958905786
+        },
+        "probability": 0.938598871231,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 236.695510864,
+        "lossless": 0,
+        "replay_gain": -10.9821281433,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "bd423f8d8738b0fbafee36791a227e43"
+    },
+    "tags": {
+        "file_name": "m_diva-ready_for_love.mp3",
+        "album": ["Solo Numeros 1 2001 CD2"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["ready for love-m-diva"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

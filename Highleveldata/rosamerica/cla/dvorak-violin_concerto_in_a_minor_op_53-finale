@@ -1,0 +1,62 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.927175760269,
+            "dan": 0.0026559852995,
+            "hip": 0.00593444053084,
+            "jaz": 0.0185714960098,
+            "pop": 0.00657703587785,
+            "rhy": 0.0305279232562,
+            "roc": 0.00229607499205,
+            "spe": 0.00626127282158
+        },
+        "probability": 0.927175760269,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128034,
+        "equal_loudness": 0,
+        "length": 580.493041992,
+        "lossless": 0,
+        "replay_gain": -7.23080062866,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "896692e8e167429dad69cf9e1e930691"
+    },
+    "tags": {
+        "file_name": "dvorak-violin_concerto_in_a_minor_op_53-finale.mp3",
+        "album": ["Coleridge-Taylor - Dvorak - Vi"],
+        "artist": ["Johannesburg Philharmonic"],
+        "artistwebpage": ["http:\/\/www.magnatune.com\/artists\/johannesburg"],
+        "composer": ["www.magnatune.com\/artists\/johannesburg"],
+        "copyright": ["2004 Johannesburg Philharmonic - Licensed to the public under http:\/\/creativecommons.org\/licenses\/by-nc-sa\/1.0\/ verify at http:\/\/www.magnatune.com\/artists\/johannesburg"],
+        "date": ["2004"],
+        "encodedby": ["http:\/\/www.magnatune.com\/"],
+        "filewebpage": ["http:\/\/www.magnatune.com\/artists\/johannesburg"],
+        "genre": ["Classical"],
+        "length": ["581000"],
+        "originalartist": ["http:\/\/www.magnatune.com\/artists\/johannesburg"],
+        "title": ["Dvorak, Violin Concerto in A M"],
+        "tracknumber": ["6"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

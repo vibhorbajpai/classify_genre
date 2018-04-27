@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000410376873333,
+            "dan": 0.0415518917143,
+            "hip": 0.89960873127,
+            "jaz": 0.00122271652799,
+            "pop": 0.00806937646121,
+            "rhy": 0.0386563055217,
+            "roc": 0.00974558293819,
+            "spe": 0.000735023233574
+        },
+        "probability": 0.89960873127,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 394.997558594,
+        "lossless": 0,
+        "replay_gain": -6.01662445068,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "44e04d5363c72f0cc4f5b35d78272fff"
+    },
+    "tags": {
+        "file_name": "digital_underground-humpty_dance.mp3",
+        "album": ["Digital Underground"],
+        "artist": ["Old School Rap"],
+        "date": ["2000"],
+        "genre": ["Blues"],
+        "title": ["The Humpty Dance"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

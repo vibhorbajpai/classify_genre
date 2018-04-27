@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000444019213319,
+            "dan": 9.13707553991e-05,
+            "hip": 0.998538434505,
+            "jaz": 0.000308775604935,
+            "pop": 0.000181338895345,
+            "rhy": 0.000213778228499,
+            "roc": 9.88156898529e-05,
+            "spe": 0.000123438250739
+        },
+        "probability": 0.998538434505,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 246.569793701,
+        "lossless": 0,
+        "replay_gain": -7.10964584351,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "00d43f1f76ce18007c283e313a7f5e36"
+    },
+    "tags": {
+        "file_name": "big_daddy_kane-raw.mp3",
+        "artist": ["Big Daddy Kane"],
+        "encodedby": ["Ripped with Streamripper"],
+        "genre": ["Blues"],
+        "title": ["Raw"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

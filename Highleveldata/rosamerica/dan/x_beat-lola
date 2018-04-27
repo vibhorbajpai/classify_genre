@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000480277463794,
+            "dan": 0.887782156467,
+            "hip": 0.0464820824564,
+            "jaz": 0.00171244761441,
+            "pop": 0.0308008026332,
+            "rhy": 0.0264044012874,
+            "roc": 0.00409456389025,
+            "spe": 0.00224325223826
+        },
+        "probability": 0.887782156467,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 174.628570557,
+        "lossless": 0,
+        "replay_gain": -8.89372634888,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "e5c2cd8a016739e59063311d3a14dcf8"
+    },
+    "tags": {
+        "file_name": "x_beat-lola.mp3",
+        "album": ["Cultura De Club (CD 2)"],
+        "artist": ["Various Artists"],
+        "genre": ["Other"],
+        "title": ["X-Beat - Lola"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

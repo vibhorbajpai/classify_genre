@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0458282604814,
+            "dan": 0.000312045769533,
+            "hip": 0.000419526622863,
+            "jaz": 0.886175632477,
+            "pop": 0.00230635330081,
+            "rhy": 0.0606771409512,
+            "roc": 0.0038084089756,
+            "spe": 0.000472607440315
+        },
+        "probability": 0.886175632477,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 211.826934814,
+        "lossless": 0,
+        "replay_gain": -4.98458862305,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "460b79b56fee2b0a1ed8ecb11943599b"
+    },
+    "tags": {
+        "file_name": "chet_baker-somewhere_over_the_rainbow.mp3",
+        "album": ["The Italian Sessions"],
+        "artist": ["Chet Baker"],
+        "date": ["1962"],
+        "genre": ["Jazz"],
+        "title": ["Somewhere Over The Rainbow"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

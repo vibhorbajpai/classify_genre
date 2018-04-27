@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000137612631079,
+            "dan": 0.998010218143,
+            "hip": 0.000280968495645,
+            "jaz": 9.13990807021e-05,
+            "pop": 0.000138024974149,
+            "rhy": 0.000818282191176,
+            "roc": 0.00020052032778,
+            "spe": 0.000322996085742
+        },
+        "probability": 0.998010218143,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 199.209793091,
+        "lossless": 0,
+        "replay_gain": -9.17559242249,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9d01e7ad8c6a6e684dfa148789d8d332"
+    },
+    "tags": {
+        "file_name": "luna_park-space_melody.mp3",
+        "album": ["Anual. El álbum dance del año. Progressive & Hard House. ( Cd. 3 )"],
+        "artist": ["Varios"],
+        "genre": ["Other"],
+        "title": ["Space melody"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

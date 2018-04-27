@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00152784504462,
+            "dan": 0.00206588534638,
+            "hip": 0.00224723038264,
+            "jaz": 0.967922866344,
+            "pop": 0.00352088268846,
+            "rhy": 0.0140485372394,
+            "roc": 0.00828314386308,
+            "spe": 0.000383604085073
+        },
+        "probability": 0.967922866344,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 820.950195312,
+        "lossless": 0,
+        "replay_gain": -8.27308082581,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "ec94b2d2eb40190109707d462061de46"
+    },
+    "tags": {
+        "file_name": "stan_getz_and_dizzy_gillespie_septet_with_coleman_hawkins_and_paul_gonsalves-the_way_you_look_tonight.mp3",
+        "album": ["Jazz Masters 25"],
+        "artist": ["Stan Getz & Dizzy Gillespie"],
+        "date": ["2000"],
+        "genre": ["Jazz"],
+        "title": ["The Way You Look Tonight"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0253291856498,
+            "dan": 0.00385092897341,
+            "hip": 0.00882697477937,
+            "jaz": 0.0794577002525,
+            "pop": 0.0972310081124,
+            "rhy": 0.766065061092,
+            "roc": 0.0101610505953,
+            "spe": 0.00907809101045
+        },
+        "probability": 0.766065061092,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 362.292236328,
+        "lossless": 0,
+        "replay_gain": -7.08178329468,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "39f28fdb1dea8cb15f8b51fa0c6a911d"
+    },
+    "tags": {
+        "file_name": "etta_james-sunday_kind_of_life.mp3",
+        "album": ["Heart Of A Woman "],
+        "artist": ["Etta James"],
+        "date": ["1999"],
+        "genre": ["Soul"],
+        "title": ["Sunday Kind Of Life"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

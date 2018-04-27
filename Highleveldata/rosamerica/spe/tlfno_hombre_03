@@ -1,0 +1,51 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00106998858973,
+            "dan": 0.000409367785323,
+            "hip": 0.00414274353534,
+            "jaz": 0.00066157366382,
+            "pop": 0.000297192396829,
+            "rhy": 0.000570841890294,
+            "roc": 0.00145265483297,
+            "spe": 0.991395652294
+        },
+        "probability": 0.991395652294,
+        "value": "spe"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 61.4922447205,
+        "lossless": 0,
+        "replay_gain": -5.42136764526,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "9bf467d0162ba20557309f494e6d4c12"
+    },
+    "tags": {
+        "file_name": "tlfno_hombre_03.mp3",
+        "date": ["2004"],
+        "engineer": ["rosamerica tamyo"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000671289220918,
+            "dan": 0.96745890379,
+            "hip": 0.00134638103191,
+            "jaz": 0.00082461925922,
+            "pop": 0.0174585636705,
+            "rhy": 0.00903686322272,
+            "roc": 0.00274565722793,
+            "spe": 0.000457697547972
+        },
+        "probability": 0.96745890379,
+        "value": "dan"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 181.629394531,
+        "lossless": 0,
+        "replay_gain": -10.5003662109,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "4dc6986b010a112cfd25dcff620c594c"
+    },
+    "tags": {
+        "file_name": "gigi_dagostino-un_giorno_credi.mp3",
+        "album": ["The original sessions. Vol V. Dance"],
+        "artist": ["Varios Artistas"],
+        "genre": ["Other"],
+        "title": ["Un giorno credi"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

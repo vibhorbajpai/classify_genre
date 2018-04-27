@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0178702566773,
+            "dan": 0.019591467455,
+            "hip": 0.0629659742117,
+            "jaz": 0.0442948155105,
+            "pop": 0.178881675005,
+            "rhy": 0.649033367634,
+            "roc": 0.0198083929718,
+            "spe": 0.00755405798554
+        },
+        "probability": 0.649033367634,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 256000,
+        "equal_loudness": 0,
+        "length": 279.405700684,
+        "lossless": 0,
+        "replay_gain": -7.48788261414,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "35b73d7d5b5861552bcb187ac58f0e2c"
+    },
+    "tags": {
+        "file_name": "lauryn_hill-ex-factor.mp3",
+        "album": ["Woman II"],
+        "artist": ["Woman II -By Stuff-"],
+        "genre": ["General Unclassifiable"],
+        "title": ["Lauryn Hill-Ex-Factor"],
+        "tracknumber": ["17"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

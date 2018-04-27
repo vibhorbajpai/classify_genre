@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000740020652302,
+            "dan": 0.0108036305755,
+            "hip": 0.980288386345,
+            "jaz": 0.000581151223741,
+            "pop": 0.001858531381,
+            "rhy": 0.00460728863254,
+            "roc": 0.000382608908694,
+            "spe": 0.000738411035854
+        },
+        "probability": 0.980288386345,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 69.1461257935,
+        "lossless": 0,
+        "replay_gain": -9.62299728394,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "d8cf07dc9257d0447a2b93a083135498"
+    },
+    "tags": {
+        "file_name": "la_primera_piedra-intro.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

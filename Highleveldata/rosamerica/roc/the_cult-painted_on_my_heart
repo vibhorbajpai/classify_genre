@@ -1,0 +1,56 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00329411844723,
+            "dan": 0.00718455575407,
+            "hip": 0.0102265086025,
+            "jaz": 0.00341579900123,
+            "pop": 0.105842240155,
+            "rhy": 0.00975259207189,
+            "roc": 0.859684944153,
+            "spe": 0.000599232153036
+        },
+        "probability": 0.859684944153,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 268.068572998,
+        "lossless": 0,
+        "replay_gain": -7.60971450806,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "8d7c5822d219d68815e2070f41b0c945"
+    },
+    "tags": {
+        "file_name": "the_cult-painted_on_my_heart.mp3",
+        "album": ["Soundtrack to Gone In 60 Seconds"],
+        "artist": ["Gone In 60 Seconds"],
+        "genre": ["genre"],
+        "length": ["267911"],
+        "media": ["DIG"],
+        "title": ["The Cult - Painted On My Heart"],
+        "tracknumber": ["1"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

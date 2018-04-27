@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.00536754215136,
+            "dan": 0.0137717621401,
+            "hip": 0.0090167382732,
+            "jaz": 0.0145476628095,
+            "pop": 0.108964458108,
+            "rhy": 0.0311126094311,
+            "roc": 0.812419295311,
+            "spe": 0.00479990011081
+        },
+        "probability": 0.812419295311,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 128000,
+        "equal_loudness": 0,
+        "length": 251.58531189,
+        "lossless": 0,
+        "replay_gain": -10.5145301819,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "6cf5dce8775bb7f58df6a54a066a492c"
+    },
+    "tags": {
+        "file_name": "everclear-breakfast_at_tiffanys.mp3",
+        "album": ["Stealth Music Factory"],
+        "artist": ["Deep Blue Something"],
+        "date": ["1996"],
+        "genre": ["Other"],
+        "title": ["Breakfast at Tiffanys"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0306510683149,
+            "dan": 0.00761365471408,
+            "hip": 0.0165708940476,
+            "jaz": 0.0700306221843,
+            "pop": 0.663372933865,
+            "rhy": 0.15651653707,
+            "roc": 0.0466909892857,
+            "spe": 0.00855331029743
+        },
+        "probability": 0.663372933865,
+        "value": "pop"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 251.898773193,
+        "lossless": 0,
+        "replay_gain": -11.5975036621,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b2be0c9d181a1b426bf6dd6a602f92ea"
+    },
+    "tags": {
+        "file_name": "rosana-pa_ti_no_estoy.mp3",
+        "album": ["Rosana"],
+        "artist": ["Rosana"],
+        "genre": ["Other"],
+        "title": ["Pa ti no estoy"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

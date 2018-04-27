@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0738395750523,
+            "dan": 0.00545379798859,
+            "hip": 0.0155154997483,
+            "jaz": 0.0739298984408,
+            "pop": 0.0694062635303,
+            "rhy": 0.707528471947,
+            "roc": 0.0389581695199,
+            "spe": 0.015368337743
+        },
+        "probability": 0.707528471947,
+        "value": "rhy"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 207.647354126,
+        "lossless": 0,
+        "replay_gain": -8.78716659546,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "dc1b244420e586e7f27c2de696eca2a8"
+    },
+    "tags": {
+        "file_name": "barry_white-you_heart_and_soul.mp3",
+        "album": ["the heart and soul of "],
+        "artist": ["barry white"],
+        "date": ["2002"],
+        "genre": ["Soul"],
+        "title": ["you heart and soul"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

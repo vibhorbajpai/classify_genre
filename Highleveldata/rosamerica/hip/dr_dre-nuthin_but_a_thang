@@ -1,0 +1,54 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.000595411343966,
+            "dan": 0.00881469994783,
+            "hip": 0.979834258556,
+            "jaz": 0.00237532518804,
+            "pop": 0.00192968384363,
+            "rhy": 0.00380363268778,
+            "roc": 0.000752429594286,
+            "spe": 0.00189454352949
+        },
+        "probability": 0.979834258556,
+        "value": "hip"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 238.550201416,
+        "lossless": 0,
+        "replay_gain": -8.83448600769,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "18e774ab882a556262a58c4341140ee1"
+    },
+    "tags": {
+        "file_name": "dr_dre-nuthin_but_a_thang.mp3",
+        "album": ["The Chronic"],
+        "artist": ["Dr. Dre"],
+        "date": ["1992"],
+        "genre": ["Rap"],
+        "title": ["Nuthin' But A 'G' Thang"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

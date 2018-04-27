@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0176410712302,
+            "dan": 0.00476187001914,
+            "hip": 0.00199841056019,
+            "jaz": 0.0141285322607,
+            "pop": 0.0130576640368,
+            "rhy": 0.00615704897791,
+            "roc": 0.933787047863,
+            "spe": 0.00846834946424
+        },
+        "probability": 0.933787047863,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 349.28326416,
+        "lossless": 0,
+        "replay_gain": -11.5473423004,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "1b5337419ba375793e1701b3a5029ab2"
+    },
+    "tags": {
+        "file_name": "queens_of_the_stone_age-better_living_through_chemistry.mp3",
+        "album": ["Rated R"],
+        "artist": ["Queens Of The Stone Age"],
+        "genre": ["Blues"],
+        "title": ["Better Living Through Chemistry"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

@@ -1,0 +1,50 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.940752446651,
+            "dan": 0.000257046660408,
+            "hip": 0.000238739245106,
+            "jaz": 0.0353561416268,
+            "pop": 0.00201309821568,
+            "rhy": 0.0189718324691,
+            "roc": 0.000555942882784,
+            "spe": 0.00185477233026
+        },
+        "probability": 0.940752446651,
+        "value": "cla"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 320000,
+        "equal_loudness": 0,
+        "length": 236.329803467,
+        "lossless": 0,
+        "replay_gain": -6.84155654907,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "973d798d235f35e68a34da709260edaa"
+    },
+    "tags": {
+        "file_name": "mozart-sonata_for_violin_and_piano.mp3",
+        "tracknumber": ["9"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

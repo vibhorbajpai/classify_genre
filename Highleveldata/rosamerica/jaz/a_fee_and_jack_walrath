@@ -1,0 +1,49 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0104354629293,
+            "dan": 0.0110558215529,
+            "hip": 0.0186255164444,
+            "jaz": 0.845870137215,
+            "pop": 0.031491830945,
+            "rhy": 0.0539981983602,
+            "roc": 0.0230275634676,
+            "spe": 0.00549544719979
+        },
+        "probability": 0.845870137215,
+        "value": "jaz"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 523.702880859,
+        "lossless": 0,
+        "replay_gain": -5.36413955688,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "da7641c45e4d80c4cf06ff76517c7ca1"
+    },
+    "tags": {
+        "file_name": "a_fee_and_jack_walrath.mp3"
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}

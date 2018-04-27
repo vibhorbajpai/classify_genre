@@ -1,0 +1,53 @@
+{
+"highlevel": {
+    "genre_rosamerica": {
+        "all": {
+            "cla": 0.0041100634262,
+            "dan": 0.0144881391898,
+            "hip": 0.0115989912301,
+            "jaz": 0.0115950126201,
+            "pop": 0.0925738438964,
+            "rhy": 0.00377300544642,
+            "roc": 0.856339514256,
+            "spe": 0.00552141852677
+        },
+        "probability": 0.856339514256,
+        "value": "roc"
+    }
+},
+"metadata": {
+    "audio_properties": {
+        "analysis_sample_rate": 44100,
+        "bit_rate": 192000,
+        "equal_loudness": 0,
+        "length": 285.831848145,
+        "lossless": 0,
+        "replay_gain": -12.0708847046,
+        "sample_rate": 44100,
+        "codec": "mp3",
+        "downmix": "mix",
+        "md5_encoded": "b8e656ddd102f0d00361c521ea3ae9fd"
+    },
+    "tags": {
+        "file_name": "silverchair-too_much_of_not_enough.mp3",
+        "album": ["The Greatest View"],
+        "artist": ["Silverchair"],
+        "genre": ["Hard Rock"],
+        "title": ["Too Much of Not Enough"]
+    },
+    "version": {
+        "highlevel": {
+            "essentia": "2.1-dev",
+            "essentia_git_sha": "v2.1_beta3-11-g852e331",
+            "extractor": "music 1.0",
+            "gaia": "2.4.4",
+            "gaia_git_sha": "626f2c7"
+        },
+        "lowlevel": {
+            "essentia": "2.1-beta2",
+            "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+            "extractor": "music 1.0"
+        }
+    }
+}
+}
