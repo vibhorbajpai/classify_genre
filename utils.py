@@ -55,7 +55,8 @@ def extract_data(dataset_list):
                 if not os.path.exists(os.path.join(HIGH_LEVEL_DATA_BASE_PATH, dataset, classname)):
                     os.makedirs(os.path.join(HIGH_LEVEL_DATA_BASE_PATH, dataset, classname))
                 extract_highleveldata(os.path.join(LOW_LEVEL_DATA_BASE_PATH, dataset, classname, f),
-                                      os.path.join(HIGH_LEVEL_DATA_BASE_PATH, dataset, classname, f))
+                                      os.path.join(HIGH_LEVEL_DATA_BASE_PATH, dataset, classname, f),
+                                      profile=True)
 
 def convert_to_csv(inputpath, outputpath):
     masterfields = set()
@@ -64,19 +65,23 @@ def convert_to_csv(inputpath, outputpath):
         for f in files:
             if '.sig' not in f and 'DS_Store' not in f and '&' not in f:
                 if not os.path.exists(os.path.join(outputpath, classname)):
-                    os.makedirs(outputpath)
+                    os.makedirs(os.path.join(outputpath, classname))
                 inputfile = os.path.join(root, f)
-                outputfile = os.path.join(outputpath, f, '.csv')
-                convert_all(inputfile, outputfile)
+                outputfile = os.path.join(outputpath, classname, f)+'.csv'
+                inputfilelist = list()
+                inputfilelist.append(inputfile)
+                convert_all(inputfilelist, outputfile)
                 df = pd.read_csv(outputfile)
                 header_list = list(df)
                 for h in header_list:
                     masterfields.add(h)
-    return masterfields
+    return list(masterfields)
 
 def extract_csv(dataset_list):
+    masterfields = dict()
     for dataset in dataset_list:
         if not os.path.exists(os.path.join(CSV_BASE_PATH, dataset)):
             os.makedirs(os.path.join(CSV_BASE_PATH, dataset))
-        masterfields = convert_to_csv(os.path.join(LOW_LEVEL_DATA_BASE_PATH, dataset), os.path.join(CSV_BASE_PATH, dataset))
-        print(len(masterfields))
+        masterfields[dataset] = convert_to_csv(os.path.join(LOW_LEVEL_DATA_BASE_PATH, dataset), os.path.join(CSV_BASE_PATH, dataset))
+        print(len(masterfields[dataset]))
+    return masterfields

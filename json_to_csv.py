@@ -42,13 +42,13 @@ def parse_descriptors(d, include=None, ignore=None):
 
 def convert(json_file, include, ignore):
     print('Converting', json_file)
-    data = json.load(open(json_file, 'r'))
+    data = json.load(open(json_file, 'r'), strict=False)
 
     return parse_descriptors(data, include, ignore)
 
 
 def convert_all(json_files, csv_file, include=None, ignore=None, add_filename=True):
-    with open(csv_file, 'wb') as f_csv:
+    with open(csv_file, 'w') as f_csv:
         print("Writing to", csv_file)
         writer = csv.writer(f_csv,
                             delimiter=',',
